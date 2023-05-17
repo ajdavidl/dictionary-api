@@ -12,11 +12,21 @@ def languageName(lang):
         return 'portuguese'
     elif lang == 'es':
         return 'spanish'
+    elif lang == 'fr':
+        return 'french'
+    elif lang == 'de':
+        return 'german'
+    elif lang == 'it':
+        return 'italian'
+    elif lang == 'ro':
+        return 'romanian'
+    elif lang == 'ca':
+        return 'catalan'
 
 
 def query(word, langFrom, langTo):
 
-    available_languages = ['pt', 'en', 'es']
+    available_languages = ['pt', 'en', 'es', 'fr', 'de', 'it', 'ro', 'ca']
     if langFrom not in available_languages:
         return 'error in language definition'
     if langTo not in available_languages:
@@ -80,9 +90,9 @@ def query(word, langFrom, langTo):
 app = Flask(__name__)
 
 
-@app.route('/<string:word>', methods=['GET'])
-def queryDictionary(word):
-    output = query(word, 'en', 'pt')
+@app.route('/<string:langFrom>/<string:langTo>/<string:word>', methods=['GET'])
+def queryDictionary(word, langFrom, langTo):
+    output = query(word, langFrom, langTo)
     return jsonify({'resposta': output})
 
 
