@@ -33,19 +33,19 @@ def query(word, langFrom, langTo):
         return 'error in language definition'
 
     text = {}
-    text['0'] = 'GLOSBE'
 
     URL_GLOSBE = 'https://pt.glosbe.com/%s/%s/%s' % (langFrom, langTo, word)
 
+    print(URL_GLOSBE)
     response = requests.get(URL_GLOSBE, headers={
                             'User-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'})
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    words = {}
+    words = []
     for div in soup.findAll('h3'):
-        words[word] = div.text
+        words.append(div.text)
 
-    text['words'] = words
+    text[word] = words
 
     expressions = {}
     for li in soup.findAll('li', {'class': 'px-2 py-1 flex even:bg-slate-100'}):
@@ -60,10 +60,11 @@ def query(word, langFrom, langTo):
     text['expressions'] = expressions
 
     text2 = {}
-    text2['0'] = 'PONS'
 
     URL_PONS = 'https://en.pons.com/translate/%s-%s/%s' % (
         languageName(langFrom), languageName(langTo), word)
+    print(URL_PONS)
+
     response = requests.get(URL_PONS, headers={
                             'User-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'})
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -83,7 +84,24 @@ def query(word, langFrom, langTo):
             t = re.sub('\n', '', wordsTarget[i])
             text2[s] = t
 
-    output = {'dict1': text, 'dict2': text2}
+    text3 = {}
+
+    URL_LINGUEE = 'https://www.linguee.com/%s-%s/search?source=auto&query=%s' % (
+        languageName(langFrom), languageName(langTo), word)
+    print(URL_LINGUEE)
+
+    response = requests.get(URL_LINGUEE, headers={
+                            'User-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'})
+    soup = BeautifulSoup(response.content, 'html.parser')
+
+    wordsList = []
+    for div in soup.findAll('div', {'class': 'translation sortablemg'}):
+        t = re.sub('\n', '', div.text)
+        wordsList.append(t)
+
+    text3[word] = wordsList
+
+    output = {'GLOSBE': text, 'PONS': text2, 'LINGUEE': text3}
     return output
 
 
