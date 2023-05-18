@@ -3,6 +3,7 @@ from flask import Flask, request, jsonify
 import requests
 from bs4 import BeautifulSoup  # bs4.__versions__ == 4.11.1
 import re
+from textblob import TextBlob
 
 
 def languageName(lang):
@@ -101,7 +102,11 @@ def query(word, langFrom, langTo):
 
     text3[word] = wordsList
 
-    output = {'GLOSBE': text, 'PONS': text2, 'LINGUEE': text3}
+    blob = TextBlob(word).translate(to=langTo, from_lang=langFrom)
+    text4 = str(blob)
+
+    output = {'GLOSBE': text, 'PONS': text2,
+              'LINGUEE': text3, 'GOOGLE TRANSLATE': text4}
     return output
 
 
