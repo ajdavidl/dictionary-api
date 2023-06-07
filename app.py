@@ -1,7 +1,7 @@
 import json
 from flask import Flask, request, jsonify
 import requests
-from bs4 import BeautifulSoup  # bs4.__versions__ == 4.11.1
+from bs4 import BeautifulSoup
 import re
 from textblob import TextBlob
 
@@ -102,9 +102,11 @@ def query(word, langFrom, langTo):
 
     text3[word] = wordsList
 
-    blob = TextBlob(word).translate(to=langTo, from_lang=langFrom)
-    text4 = str(blob)
-
+    try:
+        blob = TextBlob(word).translate(to=langTo, from_lang=langFrom)
+        text4 = str(blob)
+    except:
+        text4 = ""
     output = {'GLOSBE': text, 'PONS': text2,
               'LINGUEE': text3, 'GOOGLE TRANSLATE': text4}
     return output
