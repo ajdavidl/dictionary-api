@@ -14,3 +14,13 @@ cd dictionary-api
 pip install -r requirements.txt
 python app.py
 ```
+
+Now you can query the API using `curl`. 
+
+Example: to query the English word `language` in Portuguese.
+
+```shell
+curl http://localhost:5555/en/pt/language
+```
+
+Or you can browse the address `http://localhost:5555/en/pt/language` in your favorite browser.
