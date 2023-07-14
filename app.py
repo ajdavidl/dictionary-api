@@ -4,6 +4,9 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from textblob import TextBlob
+from transformers import pipeline
+
+TRANSLATOR = pipeline("translation", model="Helsinki-NLP/opus-mt-ine-ine")
 
 
 def languageName(lang):
@@ -23,6 +26,25 @@ def languageName(lang):
         return 'romanian'
     elif lang == 'ca':
         return 'catalan'
+
+
+def languageName2(lang):
+    if lang == 'en':
+        return 'eng'
+    elif lang == 'pt':
+        return 'por'
+    elif lang == 'es':
+        return 'spa'
+    elif lang == 'fr':
+        return 'fre'
+    elif lang == 'de':
+        return 'deu'
+    elif lang == 'it':
+        return 'ita'
+    elif lang == 'ro':
+        return 'ron'
+    elif lang == 'ca':
+        return 'cat'
 
 
 def query(word, langFrom, langTo):
@@ -107,8 +129,13 @@ def query(word, langFrom, langTo):
         text4 = str(blob)
     except:
         text4 = ""
+
+    text5 = TRANSLATOR(">>%s<< %s" % (languageName2(langTo), word))
+    text5 = text5[0]['translation_text']
+
     output = {'GLOSBE': text, 'PONS': text2,
-              'LINGUEE': text3, 'GOOGLE TRANSLATE': text4}
+              'LINGUEE': text3, 'GOOGLE TRANSLATE': text4,
+              'HUGGINGFACE': text5}
     return output
 
 
