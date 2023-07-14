@@ -1,4 +1,7 @@
-bs4
+beautifulsoup4
 flask
 requests
+sentencepiece
 textblob
+transformers
+torch
