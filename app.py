@@ -26,6 +26,8 @@ def languageName(lang):
         return 'romanian'
     elif lang == 'ca':
         return 'catalan'
+    elif lang == 'la':
+        return 'latin'
 
 
 def languageName2(lang):
@@ -45,11 +47,14 @@ def languageName2(lang):
         return 'ron'
     elif lang == 'ca':
         return 'cat'
+    elif lang == 'la':
+        return 'latin'
 
 
 def query(word, langFrom, langTo):
 
-    available_languages = ['pt', 'en', 'es', 'fr', 'de', 'it', 'ro', 'ca']
+    available_languages = ['pt', 'en', 'es',
+                           'fr', 'de', 'it', 'ro', 'ca', 'la']
     if langFrom not in available_languages:
         return 'error in language definition'
     if langTo not in available_languages:
