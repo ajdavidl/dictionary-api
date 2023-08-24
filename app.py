@@ -59,6 +59,7 @@ def query(word, langFrom, langTo):
         return 'error in language definition'
     if langTo not in available_languages:
         return 'error in language definition'
+    user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
 
     text = {}
 
@@ -66,7 +67,7 @@ def query(word, langFrom, langTo):
 
     print(URL_GLOSBE)
     response = requests.get(URL_GLOSBE, headers={
-                            'User-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'})
+                            'User-agent': user_agent})
     soup = BeautifulSoup(response.content, 'html.parser')
 
     words = []
@@ -94,7 +95,7 @@ def query(word, langFrom, langTo):
     print(URL_PONS)
 
     response = requests.get(URL_PONS, headers={
-                            'User-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'})
+                            'User-agent': user_agent})
     soup = BeautifulSoup(response.content, 'html.parser')
 
     wordsSource = []
@@ -119,7 +120,7 @@ def query(word, langFrom, langTo):
     print(URL_LINGUEE)
 
     response = requests.get(URL_LINGUEE, headers={
-                            'User-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'})
+                            'User-agent': user_agent})
     soup = BeautifulSoup(response.content, 'html.parser')
 
     wordsList = []
