@@ -9,6 +9,16 @@ from transformers import pipeline
 TRANSLATOR = pipeline("translation", model="Helsinki-NLP/opus-mt-ine-ine")
 
 
+def loadDictionaries(file):
+    """
+    Load the local dictionaries.
+    """
+    with open(file, 'r') as f:
+        lines = f.readlines()
+    lines = [line.split('\t') for line in lines]
+    return {key: re.sub("\n", "", value) for key, value in lines}
+
+
 def languageName(lang):
     if lang == 'en':
         return 'english'
@@ -52,7 +62,9 @@ def languageName2(lang):
 
 
 def query(word, langFrom, langTo):
-
+    """
+    Query the dictionaries in the Internet.
+    """
     available_languages = ['pt', 'en', 'es',
                            'fr', 'de', 'it', 'ro', 'ca', 'la']
     if langFrom not in available_languages:
@@ -145,13 +157,41 @@ def query(word, langFrom, langTo):
     return output
 
 
+spa_por = loadDictionaries('data/spa-por.tsv')
+
+
+def queryLocal(word, langFrom, langTo):
+    """
+    Query the local dictionary.
+    """
+    if langFrom == 'spa' and langTo == 'por':
+        dictionary = spa_por
+    else:
+        return {'message': '%s-%s Dictionary not available.' % (langFrom, langTo)}
+    if word in dictionary:
+        return {word: dictionary[word]}
+    else:
+        return{word: []}
+
+
 app = Flask(__name__)
+
+
+# internet dictionary query
 
 
 @app.route('/<string:langFrom>/<string:langTo>/<string:word>', methods=['GET'])
 def queryDictionary(word, langFrom, langTo):
     output = query(word, langFrom, langTo)
-    return jsonify({'resposta': output})
+    return jsonify({'result': output})
+
+# local dictionary query
+
+
+@app.route('/local/<string:langFrom>/<string:langTo>/<string:word>', methods=['GET'])
+def queryLocalDictionary(word, langFrom, langTo):
+    output = queryLocal(word, langFrom, langTo)
+    return jsonify({'result': output})
 
 
 if __name__ == '__main__':
