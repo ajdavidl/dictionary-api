@@ -2,7 +2,9 @@ term	translation
 a	a (preposição)
 a bruciapelo	a queima-roupa
 a caso	ao acaso / aleatoriamente
+a ciò	nisso
 a piedi	a pé
+a questo	nisto
 a^n	a^n
 aaa	aaa
 aaaa	aaaa
@@ -1398,7 +1400,8 @@ affettuosa	carinhosa
 affettuosamente	carinhosamente
 affettuosi	carinhosos
 affettuoso	afetuoso / carinhoso
-affiancare	flanquear
+affiancandole 	flanqueando-lhe \ apoiando-lhe \ ajudando-lhe
+affiancare	flanquear \ apoiar \ ajudar
 affidabile	confiável
 affidabilità	confiabilidade
 affidamento	guarda
@@ -1970,6 +1973,7 @@ aitor	aitor
 aiuola	canteiro / aréola
 aiuole	canteiros
 aiur	aiur
+aiuta	ajuda \ ajudar
 aiutano	ajudam
 aiutante	ajudante
 aiutanti	ajudantes
@@ -2082,6 +2086,7 @@ akuma	akuma
 akureyri	akureyri
 akutagawa	akutagawa
 akwa	akwa
+al	a \ em \ por \ ao
 ala	asa
 alaa	alaa
 alaba	alaba
@@ -2326,6 +2331,7 @@ alcott	alcott
 alcova	alcova
 alcoy	alcoy
 alcubierre	alcubierre
+alcun	algum \ qualquer \ nenhum
 alcune	algumas
 alcuni	alguns
 alcuno	algum
@@ -6052,6 +6058,7 @@ ascoltando	escutando
 ascoltano	escutam / ouvem
 ascoltare	escutar / ouvir
 ascoltata	ouvida
+ascoltato	escutado
 ascoltatore	ouvinte
 ascoltatori	ouvintes
 ascoltava	ouvia
@@ -7353,6 +7360,7 @@ avesse	tivesse
 avessero	tivessem
 avessimo	tivéssemos
 avesta	avesta
+avete	haveis
 aveva	tinha
 avevamo	tínhamos
 avevano	tinham
@@ -15921,6 +15929,7 @@ cerro	cerro
 cerrone	cerrone
 cersei	cersei
 cert	cert
+certa	certa \ segura
 certain	certain
 certainly	certainly
 certainty	certainty
@@ -17002,6 +17011,8 @@ chō	chō
 chōsen	chōsen
 chōshū	chōshū
 chūbu	chubu
+ci	aqui \ aí \ lá \ nos
+ci fu	houve \ existiu
 cia	cia
 ciabatta	chinelo / chapata / pantufa
 ciad	chade
@@ -17384,6 +17395,7 @@ citation	citation
 citato	citado
 citazione	citação
 citazioni	citações
+citerete	citarão
 citerior	citerior
 cites	cites
 citi	citi
@@ -18518,6 +18530,8 @@ comin	comin
 comincerei	começaria
 cominciare	começar / iniciar
 cominciavano	começavam
+cominciò	começou \ iniciou
+cominciò 	começou \ iniciou
 cominform	cominform
 coming	coming
 comino	comino
@@ -18730,6 +18744,7 @@ compilatore	compilador
 compilatori	compiladores
 compilazione	compilação
 compiler	compiler
+compimento	conclusão \ finalização
 compiti	tarefas
 compito	tarefa
 compiuta	cumprida
@@ -19645,6 +19660,7 @@ contano	contam
 contante	numerário
 contare	contar
 contarini	contarini
+contati	contados
 contatore	contador
 contatori	contadores
 contattano	contactam
@@ -20345,6 +20361,7 @@ corradino	conradino
 corrado	corrado / conrado
 corral	corral
 corrales	corrales
+corre	corre / correr
 correa	correa
 correct	correct
 corrected	corrected
@@ -20510,6 +20527,7 @@ coscienti	conscientes
 coscienza	consciência
 coscienzioso	consciencioso
 coscrizione	conscrição
+cose	coisas
 coseni	cossenos
 coseno	cosseno
 cosentino	cosentino
@@ -20659,6 +20677,7 @@ costruttore	construtor
 costruttori	construtores
 costruzione	construção
 costs	costs
+costui	este
 costume	traje de banho / costume / traje
 cosworth	cosworth
 così	assim / dessa forma
@@ -21927,6 +21946,9 @@ cölln	cölln
 cúcuta	cúcuta
 călărași	călăraşi
 cœur	cœur
+c’era	havia \ existia
+c’erano	havia \ existiam
+c’è	há \ existe
 da	de / desde / a partir de
 daa	daa
 daan	daan
@@ -25781,7 +25803,7 @@ douro	douro
 doux	doux
 douze	douze
 dove	onde
-dover	dover
+dover	dever \ dover
 dovere	dever / ter que
 doveri	deveres
 doves	doves
@@ -26482,6 +26504,7 @@ dziwisz	dziwisz
 dzogchen	dzogchen
 dzong	dzong
 d}}	d}}
+dà	dá \ dar
 dácio	dácio
 dáil	dáil
 dál	dál
@@ -26808,6 +26831,7 @@ ecumenismo	ecumenismo
 ecurie	ecurie
 ecw	ecw
 eczema	eczema
+ed	e
 edain	edain
 edam	edam
 edb	edb
@@ -27423,6 +27447,7 @@ elgar	elgar
 elgin	elgin
 elgort	elgort
 eli	eli
+elia	Elias
 eliade	eliade
 eliana	eliana
 eliane	eliane
@@ -29221,6 +29246,7 @@ essere	existir / estar / ser / haver
 essere umano	ser humano
 esseri	seres
 essex	essex
+essi	eles \ elas
 essiccazione	secagem
 essien	essien
 essilor	essilor
@@ -30434,6 +30460,7 @@ fargas	fargas
 fargeau	fargeau
 farges	farges
 fargesii	fargesii
+fargli	lhe fazer
 fargo	fargo
 farhad	farhad
 farhat	farhat
@@ -33287,6 +33314,7 @@ ftm	ftm
 ftp	ftp
 ftse	ftse
 ft²	ft²
+fu	foi
 fuad	fuad
 fubini	fubini
 fubuki	fubuki
@@ -34969,6 +34997,8 @@ geto	geto
 getparent	getparent
 gets	gets
 getsemani	getsêmani
+getta	lança \ atira \ arremessa
+gettare	lançar \ atirar \ arremessar
 gettavano	atiravam
 getter	getter
 getti	jatos
@@ -37596,6 +37626,7 @@ gütersloh	gütersloh
 gāthā	gathas
 głogów	głogów
 gōjū	goju
+ha	há \ tem
 haa	haa
 haack	haack
 haag	haag
@@ -41438,6 +41469,7 @@ imsa	imsa
 imslp	imslp
 imx	imx
 imōto	imōto
+in	em
 in buona fede	de boa fé
 in quel	naquele / naquilo
 ina	ina
@@ -43849,6 +43881,7 @@ isasi	isasi
 isaura	isaura
 isauria	isáuria
 isaurico	isáurico
+isaìa	Isaias
 isba	isbá
 isbn	isbn
 isc	isc
@@ -48825,6 +48858,7 @@ lbc	lbc
 lbf	lbf
 lbs	lbs
 lbv	lbv
+lc	evangelho de Lucas
 lca	lca
 lcc	lcc
 lccn	lccn
@@ -48838,6 +48872,7 @@ ldl	ldl
 ldn	ldn
 ldp	ldp
 lds	lds
+le	a \ as \ o \ os
 lea	lea
 leach	leach
 leachman	leachman
@@ -49788,6 +49823,7 @@ lier	lier
 lierse	lierse
 lies	lies
 liesel	liesel
+lieto	feliz \ contente \ alegre
 lietuvos	lietuvos
 lieu	lieu
 liev	liev
@@ -51437,6 +51473,11 @@ lüneburg	luneburgo
 lütjens	lütjens
 lützen	lützen
 lützow	lützow
+l’anno	o ano
+l’esterno	o externo \ o estranho \ o exterior
+l’oggi	o hoje
+l’uomo	o homem
+ma	mas \ embora \ porém
 maa	maa
 maalouf	maalouf
 maan	maan
@@ -53915,6 +53956,7 @@ mbr	mbr
 mbs	mbs
 mbt	mbt
 mbti	mbti
+mc	evangelho de Marcos
 mc^	mc^
 mca	mca
 mcadams	mcadams
@@ -60722,6 +60764,7 @@ nyu	nyu
 nyx	nyx
 nyýazow	nyýazow
 nzz	nzz
+nàzaret	Nazaré
 náhuatl	náhuatl
 nägeli	nägeli
 när	när
@@ -61998,6 +62041,7 @@ ordine	ordem
 ordines	ordines
 ordini	encomendas
 ordino	ordeno
+ordinò	ordenou
 ordito	urdidura
 ordnance	ordnance
 ordnung	ordnung
@@ -69812,6 +69856,7 @@ queers	queers
 queipo	queipo
 queiroz	queiroz
 queirós	queirós
+quel	aquele \ aquilo
 quela	quela
 quella	aquela
 quelle	aquelas
@@ -75965,7 +76010,9 @@ scabriuscula	scabriuscula
 scaccato	xadrezado / enxequetado
 scacchi	xadrez
 scacchiera	tabuleiro de xadrez
+scaccia	expulsa \ afasta \ afugenta
 scacciano	expulsam
+scacciare	expulsar \ afastar \ afugentar
 scacco	xeque
 scacco matto	mate
 scacco perpetuo	xeque perpétuo
@@ -77001,6 +77048,7 @@ scénario	scénario
 sda	cdt
 sdb	sdb
 sdc	sdc
+sdegno	desdém \ desprezo \ raiva
 sdegnosamente	acintosamente
 sdh	sdh
 sdhc	sdhc
@@ -77155,6 +77203,7 @@ sedentarie	sedentárias
 sedentario	sedentário
 seder	seder
 sedere	bunda
+sedette	sentou-se
 sedgwick	sedgwick
 sedia	assento / cadeira
 sedicente	pretensamente
@@ -79984,6 +80033,7 @@ snr	snr
 snuff	snuff
 snuka	snuka
 snyder	snyder
+so	sei
 soames	soames
 soane	soane
 soap	soap
@@ -80305,6 +80355,7 @@ solitaire	solitaire
 solitari	solitários
 solitario	solitário
 soliti	habituais
+solito	usual \ geral \ habitual
 solitude	solitude
 solitudine	solidão
 solium	solium
@@ -82906,7 +82957,8 @@ stupidità	estupidez
 stupido	estúpido / idiota
 stupinigi	stupinigi
 stupire	surpreender / espantar
-stupito	espantado
+stupiti	surpresos \ espantados \ estarrecidos
+stupito	surpreso \ espantado \ estarrecido
 stuprate	violadas
 stupratore	violador
 stupratori	violadores
@@ -83932,6 +83984,7 @@ sächsischen	sächsischen
 sänger	sänger
 sète	sète
 sèvres	sèvres
+sé	si mesmo
 sébastien	sébastien
 sédar	sédar
 ségolène	ségolène
@@ -85963,6 +86016,7 @@ thüringen	thüringen
 thüringer	thüringer
 thābit	thabit
 thị	thị
+ti	te \ ti
 tiamat	tiamat
 tiamina	tiamina
 tian	tian
@@ -88007,6 +88061,7 @@ troverebbero	encontrariam
 troverei	encontraria
 troverà	encontrará
 troviamo	encontramos
+trovò	encontrou
 trow	trow
 trowbridge	trowbridge
 troy	troy
@@ -89842,6 +89897,7 @@ vanna	vanna
 vannes	vannes
 vannevar	vannevar
 vanni	vanni
+vanno	vão
 vannucchi	vannucchi
 vannucci	vannucci
 vannutelli	vannutelli
@@ -90325,6 +90381,7 @@ venizelos	venizelos
 venkov	venkov
 venlo	venlo
 venn	venn
+venne	vem
 venner	venner
 venom	venom
 venosa	venosa
@@ -90725,6 +90782,7 @@ vga	vga
 vhdl	vhdl
 vhf	vhf
 vhs	vhs
+vi	vos
 via	longe / por / via
 viacom	viacom
 viadotti	viadutos
