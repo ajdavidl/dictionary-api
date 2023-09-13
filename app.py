@@ -193,10 +193,16 @@ app = Flask(__name__)
 
 
 @app.route('/<string:langFrom>/<string:langTo>/<string:word>', methods=['GET'])
+# this endpoint will be removed
 def queryDictionary(word, langFrom, langTo):
     output = query(word, langFrom, langTo)
     return jsonify({'result': output})
 
+
+@app.route('/web/<string:langFrom>/<string:langTo>/<string:word>', methods=['GET'])
+def queryWebDictionary(word, langFrom, langTo):
+    output = query(word, langFrom, langTo)
+    return jsonify({'result': output})
 # local dictionary query
 
 
