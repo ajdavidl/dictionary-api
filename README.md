@@ -22,14 +22,14 @@ Now you can query the API using `curl`.
 Example: to query the English word `language` in Portuguese.
 
 ```shell
-curl http://localhost:5555/en/pt/language
+curl http://localhost:5555/web/en/pt/language
 ```
 
-Or you can browse the address `http://localhost:5555/en/pt/language` in your favorite browser.
+Or you can browse the address `http://localhost:5555/web/en/pt/language` in your favorite browser.
 
-If you wish to use the local dictionaries (only Portuguese as target language), you need to put the local name in the API call. The code names are also different. In this case, we use the 3 letters code. 
+If you wish to use the local dictionaries (only Portuguese as target language), you need to put the local name in the API call. 
 
 ```shell
-curl http://localhost:5555/local/eng/por/language
+curl http://localhost:5555/local/es/pt/language
 ```
 
