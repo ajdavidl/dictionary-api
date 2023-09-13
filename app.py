@@ -208,6 +208,8 @@ def queryWebDictionary(word, langFrom, langTo):
 
 @app.route('/local/<string:langFrom>/<string:langTo>/<string:word>', methods=['GET'])
 def queryLocalDictionary(word, langFrom, langTo):
+    langFrom = languageName2(langFrom)
+    langTo = languageName2(langTo)
     output = queryLocal(word, langFrom, langTo)
     return jsonify({'result': output})
 
