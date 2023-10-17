@@ -284,6 +284,7 @@ abitabilità	habitabilidade
 abitacolo	habitáculo
 abitano	habitam
 abitante	habitante / morador
+abitanti	população
 abitare	habitar / morar
 abitata	habitada
 abitate	habitadas
@@ -492,6 +493,7 @@ acceleratore	acelerador
 acceleratori	aceleradores
 accelerazione	aceleração
 accelerazioni	acelerações
+accende	acende
 accendere	acender
 accendeva	acendia
 accendevano	acendiam
@@ -511,6 +513,7 @@ accenture	accenture
 accept	accept
 acceptable	acceptable
 accertati	apurados
+accesa	acesa
 accese	acesas
 acceso	ligado / aceso
 access	access
@@ -898,6 +901,7 @@ acuti	agudos
 acuto	agudo
 acutus	acutus
 acuña	acuña
+ad	a
 ada	ada
 adab	adab
 adac	adac
@@ -1435,6 +1439,7 @@ affliction	affliction
 affligge	aflige
 affliggere	afligir
 affliggersi	sofrer por
+affliggeva	afligia / afligido
 afflitta	aflita
 afflitti	aflitos
 afflitto	aflito
@@ -1706,6 +1711,7 @@ agita	agita
 agitando	agitando
 agitano	agitam
 agitare	agitar
+agitarsi	chover / agitar / chuva
 agitata	agitada
 agitate	agitadas
 agitati	agitados
@@ -1977,6 +1983,7 @@ aiuta	ajuda \ ajudar
 aiutano	ajudam
 aiutante	ajudante
 aiutanti	ajudantes
+aiutarci	ajudar-nos
 aiutare	ajudar
 aiutata	ajudada
 aiutato	ajudou / ajudado
@@ -3024,7 +3031,9 @@ altoparlante	altifalante
 altopiani	planaltos
 altopiano	planalto
 altre	outras
+altrettanto	igualmente / tão / também
 altri	outros
+altro	outro / diferente / diverso / outro / mais / mais opções
 altrove	noutro lugar / alhures
 altruismo	altruísmo
 altruista	altruísta
@@ -3086,6 +3095,7 @@ alzey	alzey
 alzheimer	alzheimer
 alzira	alzira
 alzo	levanto
+alzò	levantou
 alès	alès
 alén	alén
 ama	ama
@@ -3380,6 +3390,7 @@ amma	amma
 ammaccare	amassar
 ammaccatura	amassado
 ammalarsi	adoecer
+ammalato	doente / enfermo / doença
 amman	amã
 ammanettato	algemado
 ammann	ammann
@@ -3436,6 +3447,7 @@ ammirazione	admiração
 ammirevole	admirável
 ammirevoli	admiráveis
 ammiro	admiro
+ammirò	admirou
 ammissibile	admissível
 ammissibili	elegíveis
 ammissibilità	elegibilidade
@@ -3744,6 +3756,7 @@ anchise	anquises
 anchor	anchor
 anchorage	anchorage
 anchors	anchors
+anch’io	eu tambem
 ancia	palheta
 ancienne	ancienne
 anciennes	anciennes
@@ -3771,9 +3784,11 @@ andando	indo
 andante	andante
 andantino	andantino
 andare	andar / ir
+andarono	foram
 andate	vão
 andati	idos
 andato	ido
+andava	ia
 andavano	iam
 ande	andes
 andechs	andechs
@@ -4205,6 +4220,7 @@ annum	annum
 annuncerà	anunciará
 annunci	anúncios
 annuncia	anuncia
+annunciando	anunciando
 annunciano	anunciam
 annunciare	anunciar
 annunciata	anunciada
@@ -4378,6 +4394,7 @@ anticamera	antecâmara
 anticapitalista	anticapitalista
 antich	antich
 antiche	antigas
+antichi	antigos
 antichissimo	antiquíssimo
 antichità	antiguidades
 antichità classica	antiguidade clássica
@@ -4600,6 +4617,7 @@ anziana	idosa
 anziani	idosos
 anzianità	antiguidade
 anziano	idosa / ancião / idoso
+anziché	a / ao invés de / em vez de
 anzio	anzio
 anzola	anzola
 anzoátegui	anzoátegui
@@ -4893,6 +4911,7 @@ appollaiarsi	empoleirar-se
 appollaiato	empoleirado
 appomattox	appomattox
 appone	aporá
+apporto	contribuição / fornecimento / abastecimento
 appositamente	especialmente
 apposizione	aposição
 apposta	propositalmente / deliberadamente / de propósito
@@ -6057,7 +6076,9 @@ ascolta	escuta / ouve
 ascoltando	escutando
 ascoltano	escutam / ouvem
 ascoltare	escutar / ouvir
+ascoltarlo	escutá-lo
 ascoltata	ouvida
+ascoltate	escutai
 ascoltato	escutado
 ascoltatore	ouvinte
 ascoltatori	ouvintes
@@ -7496,6 +7517,7 @@ avvicinamento	aproximação
 avvicinando	aproximando
 avvicinano	aproximam
 avvicinare	aproximar
+avvicinarlo	aproximá-lo
 avvicinasse	aproximasse
 avvicinava	aproximava
 avvicinavano	aproximavam
@@ -7752,6 +7774,7 @@ babu	babu
 babuino	babuino
 babur	babur
 baby	bebê / baby
+baby-sitter	babá
 babyface	babyface
 babylon	babylon
 babylonia	babylonia
@@ -8935,6 +8958,7 @@ battezzati	batizados
 battezzò	batizou
 battiato	battiato
 battier	battier
+battista	batista / baptista / batistas / batista / baptista
 battistella	battistella
 battistero	baptistério
 battisti	battisti
@@ -9386,6 +9410,7 @@ belka	belka
 belkin	belkin
 belknap	belknap
 bell	bell
+bella	belo / bonito / linda / bella
 belladonna	belladonna
 bellagio	bellagio
 bellaire	bellaire
@@ -9566,6 +9591,7 @@ benetton	benetton
 benevento	benevento
 benevole	benevolentes
 benevolenza	benevolência
+benevolo	amável / amigável / espécie
 beneš	beneš
 benešov	benešov
 benfica	benfica
@@ -9657,6 +9683,7 @@ benzoico	benzóico
 benítez	benítez
 beobachter	beobachter
 beom	beom
+beone	beberrão / bêbado / alcoólatra / borracho
 beor	beor
 beos	beos
 beota	beócio
@@ -10004,6 +10031,7 @@ beva	beba
 bevan	bevan
 bevanda	bebida
 bevande	bebidas
+beve	bebe / beber
 bevendo	bebendo
 bever	bever
 bevere	beber
@@ -10580,6 +10608,7 @@ bisnonna	bisavó
 bisnonni	bisavós
 bisnonno	bisavô
 bisogni	necessidades
+bisogno	necessidade / precisar / carência
 bisognosi	necessitados / necessitado
 bisognoso	carente
 bisolfito	bissulfito
@@ -12952,6 +12981,7 @@ buonarroti	buonarroti
 buonasera	boa noite
 buondelmonti	buondelmonti
 buone	boas
+buoni	bons
 buonista	cidadão de bem
 buono	bom
 buontalenti	buontalenti
@@ -13302,6 +13332,7 @@ błaszczykowski	błaszczykowski
 bœuf	bœuf
 břeclav	břeclav
 březina	březina
+c'erano	havia / existiam
 caa	caa
 caaguazú	caaguazú
 caamaño	caamaño
@@ -13469,6 +13500,7 @@ caffè	café / cafeeiro
 cafiero	cafiero
 cafone	rústico / baixaria
 cafu	cafu
+cafàrnao	Cafarnaum
 cag	cag
 cagare	cagar
 cagayan	cagayan
@@ -14293,6 +14325,7 @@ capisca	entenda
 capiscano	entendam
 capisce	entende
 capisci	percebes
+capisco	entendo
 capiscono	entendem
 capisse	percebesse
 capitaine	capitaine
@@ -15555,6 +15588,7 @@ cdna	cdna
 cdp	cdp
 cdu	cdu
 cdv	cdv
+ce	ce / nós / ce / comissão europeia
 cea	cea
 cearense	cearense
 ceará	ceará
@@ -16785,6 +16819,7 @@ chittagong	chittagong
 chittenden	chittenden
 chitty	chitty
 chiu	chiu
+chiude	fecha / cerra
 chiudere	cerrar / fechar
 chiudete	fechais
 chiudeva	fechava
@@ -17260,6 +17295,7 @@ ciotola	tigela
 ciotole	tigelas
 ciottoli	seixos
 ciottolo	pedregulho
+cioè	a saber / isto é / ou
 cip	cip
 cipa	cipa
 cipo	cipo
@@ -17437,6 +17473,7 @@ città	cidade / urbe
 città del capo	cidade do cabo
 città del messico	cidade do méxico
 città del vaticano	vaticano
+città-stato	cidade-estado
 city	city
 cityline	cityline
 cité	cité
@@ -18104,6 +18141,7 @@ coit	coit
 coito	coito
 coke	coque
 coker	coker
+col	contra
 cola	cola
 colaiuta	colaiuta
 colangite	colangite
@@ -18363,6 +18401,7 @@ colores	colores
 colori	cores
 colorista	colorista
 colorno	colorno
+coloro	os / aqueles
 colors	colors
 colossale	colossal
 colossali	colossais
@@ -19083,6 +19122,8 @@ condannati	condenados
 condannato	condenado
 condannava	condenava
 condanne	condenações
+condanneranno	condenarão / amaldiçoarão / sentenciarão
+condannerà	condenará / amaldiçoará / sentenciará
 condat	condat
 condensare	condensar
 condensata	condensada
@@ -19488,6 +19529,7 @@ conservano	conservam
 conservante	conservante
 conservanti	conservantes
 conservare	conservar
+conservarla	conservá-la
 conservata	conservada
 conservate	conservadas
 conservati	conservados
@@ -19940,6 +19982,7 @@ convert	convert
 converte	converte
 converted	converted
 convertire	converter / comutar
+convertirono	converteram
 convertirà	converterá
 convertita	convertida
 convertiti	convertidos
@@ -19979,6 +20022,7 @@ convocati	convocados
 convocato	convocado
 convocazione	convocação
 convocazioni	convocatórias
+convocò	convocou
 convogliare	canalizar
 convoglio	comboio
 convoluta	convoluta
@@ -20105,6 +20149,7 @@ coppie	casais
 coppiere	copeiro
 coppola	coppola
 copra	copra / cubra
+copre	cobre
 coprendo	cobrindo
 coprifuoco	toque de recolher
 copriletto	colcha
@@ -21600,6 +21645,7 @@ cugina	prima
 cugine	primas
 cugini	primos
 cugino	primo
+cui	que / quem / a qual
 cuiabá	cuiabá
 cuiavia	cujávia
 cuiseaux	cuiseaux
@@ -21801,6 +21847,7 @@ custard	custard
 custer	custer
 custis	custis
 custodia	custódia
+custodirla	custodiá-la
 custom	custom
 customs	customs
 cut	cut
@@ -23076,8 +23123,10 @@ dellas	dellas
 delle	das
 delli	delli
 dellinger	dellinger
+dello	dello
 delluc	delluc
 delly	delly
+dell’uomo	do homem
 delmar	delmar
 delmark	delmark
 delmas	delmas
@@ -23217,6 +23266,7 @@ dempsey	dempsey
 dempster	dempster
 demuth	demuth
 demy	demy
+demòni	demônios
 den	den
 dena	dena
 denali	denali
@@ -24533,6 +24583,7 @@ direzionale	direcional
 direzione	direção / direcção
 direzioni	direções
 dirge	dirge
+dirgli	dizer-lhe
 dirham	dirham
 dirichlet	dirichlet
 dirige	dirige
@@ -24899,6 +24950,7 @@ disqualification	disqualification
 disraeli	disraeli
 diss	diss
 dissalare	dessalgar
+disse	disse
 disseminata	disseminada
 dissensi	dissensões
 dissenteria	disenteria
@@ -26551,6 +26603,8 @@ dōjinshi	dōjinshi
 džeko	džeko
 dương	dương
 e	e
+e-book	livro eletrônico / livro digital
+e-mail	correio eletrônico / correio eletrónico / e-mail
 e^x	e^x
 eaa	eaa
 eac	eac
@@ -26717,6 +26771,7 @@ eccitazione	excitação
 eccles	eccles
 ecclesia	ecclesia
 ecclesiae	ecclesiae
+ecclesiale	eclesiástico / clerical
 ecclesiali	eclesiais
 ecclesiarum	ecclesiarum
 ecclesiaste	eclesiastes
@@ -26728,6 +26783,7 @@ ecclesiæ	ecclesiæ
 eccleston	eccleston
 ecclestone	ecclestone
 ecclésiastiques	ecclésiastiques
+ecco	eis / aqui está / aqui
 ece	ece
 ecevit	ecevit
 ecf	ecf
@@ -27651,6 +27707,7 @@ elysée	elysée
 elysées	elysées
 elza	elza
 elâzığ	elazığ
+elìa	Elias
 elías	elías
 elżbieta	elżbieta
 emacs	emacs
@@ -29226,6 +29283,7 @@ esquisse	esquisse
 esquivel	esquivel
 esrb	cers
 ess	ess
+essa	ele / ela / isso
 essais	essais
 essam	essam
 essanay	essanay
@@ -30082,6 +30140,7 @@ faced	faced
 faceless	faceless
 facelock	facelock
 facendo	fazendo
+facendoli	fazendo-lhe
 facessero	fizessem
 facessimo	fizéssemos
 facetime	facetime
@@ -32222,6 +32281,7 @@ fonazione	fonação
 fond	fond
 fonda	funda
 fondamentale	essencial / fundamental
+fondamentali	fundamentais
 fondamentalismo	fundamentalismo
 fondamentalista	fundamentalista
 fondamentalisti	fundamentalistas
@@ -35572,6 +35632,7 @@ giuda	judas
 giudaizzante	judaizantes
 giudea	judéia
 giudecca	giudecca
+giudei	judeus
 giudicando	julgando
 giudicano	julgam
 giudicare	julgar / avaliar
@@ -35648,6 +35709,7 @@ giuro	juro
 giuseppa	giuseppa
 giuseppe	josé
 giuseppina	josefina
+giusta	equilibrado / honesto / justo / direito
 giustapposizione	justaposição
 giustapposti	justapostos
 giusti	justos
@@ -36705,6 +36767,7 @@ greci	gregos
 grecia	grécia
 greco	grego
 greco antico	grego antigo
+greco-romano	greco-romano
 grecque	grecque
 gredos	gredos
 greed	greed
@@ -37183,6 +37246,7 @@ guarire	curar
 guarirà	sarará
 guariscono	curam
 guarita	curada
+guarite	curadas
 guariti	curados
 guarito	curado
 guaritore	curandeiro
@@ -39429,6 +39493,7 @@ hmv	hmv
 hnk	hnk
 hnl	hnl
 hno	hno
+ho	tenho / hei
 hoa	hoa
 hoag	hoag
 hoagy	hoagy
@@ -41539,6 +41604,7 @@ incaglio	encalhe
 incalcolabile	incalculável
 incalcolabili	incalculáveis
 incallito	inveterado
+incamminò	encaminhou
 incana	incana
 incandescente	incandescente
 incandescenti	incandescent
@@ -41679,6 +41745,7 @@ inclusionista	inclusionista
 inclusiva	inclusivo
 inclusive	inclusiva
 inclusivi	inclusivos
+inclusivo	inclusivo
 incluso	incluído
 inclán	inclán
 incmaro	incmaro
@@ -41886,6 +41953,7 @@ indegno	indigno
 indelebile	indelével
 indelebili	indeléveis
 indemnity	indemnity
+indemoniato	possuído / endemoniado
 indennità	subsídio
 indennizzo	indemnização
 indentazione	indentação
@@ -42172,6 +42240,7 @@ infarinare	enfarinhar
 infarto	enfarte
 infastidiva	incomodava
 infaticabile	infatigável
+infatti	realmente / verdadeiramente / de fato
 infatuation	infatuation
 infection	infection
 infedele	infiel
@@ -42240,6 +42309,7 @@ infiltrate	infiltradas
 infiltrati	infiltrados
 infiltrato	infiltrado
 infiltrazione	infiltração
+infine	finalmente / enfim / último
 infini	infini
 infinita	infinita
 infinitamente	infinitamente
@@ -43605,6 +43675,7 @@ ipiranga	ipiranga
 ipl	ipl
 ipm	ipm
 ipni	ipni
+ipno-	hipno-
 ipnosi	hipnose
 ipnotica	hipnótica
 ipnotiche	hipnóticas
@@ -43617,6 +43688,7 @@ ipnotizzati	hipnotizados
 ipnotizzato	hipnotizado
 ipnotizzatore	hipnotizador
 ipo	ipo
+ipo-	hipo-
 ipocalcemia	hipocalcemia
 ipocalorico	pobre em calorias
 ipocausto	hipocausto
@@ -48614,6 +48686,7 @@ latinista	latinista
 latinità	latinidade
 latinizzazione	latinização
 latino	latim
+latino-americano	latino-americano
 latinoamérica	latinoamérica
 latinorum	latinorum
 latios	latios
@@ -48949,6 +49022,7 @@ lebrun	lebrun
 lec	lec
 lecapeno	lecapeno
 lecca	chupa
+lecca-lecca	chupa-chupa
 leccare	lamber
 leccata	lambida
 lecce	lecce
@@ -49628,6 +49702,7 @@ lhota	lhota
 lhote	lhote
 lhotse	lhotse
 lhs	lhs
+li	aí / ali / lugar / li / lítio
 lia	lia
 liam	liam
 lian	lian
@@ -50267,6 +50342,7 @@ lithgow	lithgow
 lithos	lithos
 lithuanian	lithuanian
 litigando	brigando
+litigano	brigam
 litigare	brigar
 litigavano	discutiam
 litio	lítio
@@ -51475,6 +51551,7 @@ lützen	lützen
 lützow	lützow
 l’anno	o ano
 l’esterno	o externo \ o estranho \ o exterior
+l’ipocrisia	a hipocrisia
 l’oggi	o hoje
 l’uomo	o homem
 ma	mas \ embora \ porém
@@ -51842,6 +51919,7 @@ maggie	maggie
 maggio	maio
 maggiolini	fuscas
 maggiolino	fusca
+maggior	maior / superior
 maggiorana	manjerona
 maggioranza	maioria
 maggioranze	maiorias
@@ -52181,6 +52259,7 @@ malaparte	malaparte
 malaria	malária
 malaspina	malaspina
 malatesta	malatesta
+malati	malato
 malato	enfermo / doente
 malattia	doença
 malattie	doenças
@@ -52338,6 +52417,7 @@ maluginense	maluginense
 malus	malus
 malva	malva
 malvaceae	malvaceae
+malvagia	malvado / mau / má
 malvasia	malvasia
 malvern	malvern
 malversazione	malversação
@@ -52489,6 +52569,7 @@ manduca	manduca
 mandy	mandy
 mandylion	mandylion
 mandé	mandé
+mandò	mandou
 mandžukić	mandžukić
 mane	mane
 maneater	maneater
@@ -52533,6 +52614,7 @@ mangiava	comia
 mangiavano	comiam
 mangin	mangin
 mangini	mangini
+mangione	guloso / rapa de tacho
 mango	mango / manga
 mangold	mangold
 mangostano	mangostão
@@ -55206,6 +55288,7 @@ metteva	punha / colocava
 mettevano	punham
 metti	coloque
 metto	coloco
+mettono	poem / metem / colocam
 mettrie	mettrie
 metz	metz
 metzger	metzger
@@ -56113,6 +56196,7 @@ miseria	miséria
 misericordia	misericórdia
 misericordie	misericórdias
 misericordiosa	misericordiosa
+misericordioso	misericordioso / compassivo
 miserie	misérias
 misero	fraco
 misery	misery
@@ -56760,6 +56844,7 @@ moncloa	moncloa
 moncton	moncton
 mondadori	mondadori
 mondani	mundanos
+mondanità	bobeira
 mondano	mundano
 monday	monday
 mondays	mondays
@@ -59012,6 +59097,7 @@ ndp	ndp
 ndr	ndr
 ndrangheta	ndrangheta
 nds	nds
+ne	nenhum dos dois / tampouco / nordeste
 nea	nea
 neagle	neagle
 neal	neal
@@ -59019,6 +59105,7 @@ neale	neale
 nealon	nealon
 neame	neame
 neamț	neamţ
+neanche	nem / não / tampouco
 neanderthal	neandertal
 neanderthalensis	neanderthalensis
 neapolitana	neapolitana
@@ -59147,6 +59234,7 @@ negishi	negishi
 neglecta	neglecta
 neglected	neglected
 neglectus	neglectus
+negli	instrutor / mestre / dentro
 negligente	negligente
 negligentemente	negligentemente
 negligenti	negligentes
@@ -59214,6 +59302,7 @@ nelle	nas
 nelli	nelli
 nellie	nellie
 nellis	nellis
+nello	dentro
 nelly	nelly
 nelo	nelo
 nels	nels
@@ -60367,6 +60456,7 @@ notificazione	notificação
 notifiche	notificações
 notions	notions
 notitia	notitia
+notizia	notícia / informação / conto
 notizie	notícias
 notker	notker
 noto	conhecido
@@ -60776,6 +60866,7 @@ néel	néel
 néill	néill
 németh	németh
 néstor	néstor
+nìnive	Nínive
 nîmes	nîmes
 nóbrega	nóbrega
 nõmme	nõmme
@@ -60789,6 +60880,7 @@ nürtingen	nürtingen
 nāgārjuna	nagarjuna
 năstase	năstase
 năsăud	năsăud
+o	ou / o / o / oxigénio
 o_o	o_o
 oahu	oahu
 oak	oak
@@ -61110,6 +61202,7 @@ odiato	odiado
 odiava	odiava
 odiavano	odiavam
 odie	odie
+odierno	hodierno / atual / moderno
 odile	odile
 odilo	odilo
 odilon	odilon
@@ -61254,6 +61347,7 @@ oglethorpe	oglethorpe
 ogliastra	ogliastra
 ogm	ogm
 ogni	cada
+ognuno	cada / todo / todos
 ogooué	ogooué
 ogun	ogun
 ogura	ogura
@@ -63983,6 +64077,7 @@ participio passato	particípio passado
 partick	partick
 particle	particle
 particles	particles
+particolare	detalhe / particular / particularidade
 particolarismo	particularismo
 particolarità	peculiaridade / particularidades
 particolarmente	particularmente
@@ -64107,6 +64202,7 @@ passau	passau
 passava	passava
 passavano	passavam
 passchendaele	passchendaele
+passe-partout	chave-mestra
 passed	passed
 passeggere	passageiras
 passeggeri	passageiros
@@ -64948,6 +65044,7 @@ percezione	percepção
 perché	por que / porque / porquê / já que
 perciformes	perciformes
 percival	percival
+perciò	portanto / assim / consequentemente
 perclorato	perclorato
 percolazione	percolação
 percorre	percorre
@@ -65260,6 +65357,7 @@ persica	persica
 persico	perca
 persicus	persicus
 persie	persie
+persino	mesmo / também
 persio	pérsio
 persistence	persistence
 persistente	persistente
@@ -65343,6 +65441,7 @@ perverso	perverso
 perverted	perverted
 pervertito	pervertido
 pervez	pervez
+però	mas / porém / embora
 perù	peru
 pes	pes
 pesa	pesa
@@ -67142,6 +67241,7 @@ ponderato	ponderado
 ponderazione	ponderação
 ponderosa	ponderosa
 pondicherry	pondicherry
+pone	põe / coloca
 ponferrada	ponferrada
 pong	pong
 pongono	colocam
@@ -67923,6 +68023,7 @@ prendendo	tomando
 prendere	tomar / ganhar / obter / comprar / pegar / agarrar / levar
 prenderei	pegaria / pegava
 prendergast	prendergast
+prendersi	contrair / contagiar-se
 prenderò	tomarei
 prendesse	tomasse
 prendeva	tomava
@@ -68125,6 +68226,7 @@ prete	padre
 pretend	pretend
 pretendente	pretendente
 pretendenti	pretendentes
+pretendere	exigir / demandar / reivindicação
 pretenders	pretenders
 pretendo	exijo
 pretenziosa	pretensiosa
@@ -68825,6 +68927,7 @@ proposto	propôs
 propp	propp
 propranololo	propranolol
 propre	propre
+propri	próprios
 proprietari	proprietários
 proprietaria	dona
 proprietarie	proprietárias
@@ -69242,6 +69345,8 @@ ptuj	ptuj
 pub	pub
 pubblicamente	publicamente
 pubblicando	publicando
+pubblicani	publicanos
+pubblicano	publicano
 pubblicare	publicar
 pubblicasse	publicasse
 pubblicate	publicadas
@@ -69467,6 +69572,7 @@ puntura	ferroada / punção
 punzone	perfurador
 punzoni	perfuradores
 punì	castigou
+puoi 	podes
 pupi	pupi
 pupilla	pupila
 pupillare	pupilar
@@ -69756,6 +69862,7 @@ quality	quality
 qualità	qualidade
 qualità di vita	qualidade de vida
 qualsiasi	qualquer
+qualunque	cada / comum / normal
 quam	quam
 quan	quan
 quando	quando
@@ -71056,6 +71163,7 @@ recintare	cercar
 recinto	cercado / recinto
 recinzione	vedação
 recipient	recipient
+reciproca	recíproca
 reciprocamente	reciprocamente
 reciproche	mútuas
 reciproci	mútuos
@@ -71579,6 +71687,7 @@ renamed	renamed
 renan	renan
 renana	renana
 renania	renânia
+renania settentrionale-vestfalia	renânia do norte-vestfália
 renano	renano
 renard	renard
 renata	renata
@@ -71592,6 +71701,7 @@ rencontres	rencontres
 renda	torne
 rendall	rendall
 rendano	tornem
+rende	rende
 rendell	rendell
 rendendo	tornando
 renderanno	tornarão
@@ -72636,6 +72746,7 @@ rigby	rigby
 rigdon	rigdon
 rigel	rigel
 rigenera	regenera
+rigenerando	regenerando
 rigenerano	regeneram
 rigenerare	regenerar
 rigenerata	regenerada
@@ -73142,6 +73253,7 @@ risorgimento	risorgimento
 risorsa	recurso / expediente
 risorse	recursos
 risorti	renascidos
+risorto	ressucitado
 risotto	risoto
 risparmia	poupa
 risparmiare	economizar
@@ -73244,6 +73356,7 @@ ritenevano	consideravam
 ritengono	considerem
 ritenour	ritenour
 ritenute	retenções
+ritenuto	cauteloso / cuidadoso / ritenuto
 ritenzione	retenção
 rites	rites
 riti	ritos
@@ -75235,6 +75348,7 @@ salvaguardare	salvaguardar
 salvaguardia	salvaguarda
 salvaje	salvaje
 salvano	salvam
+salvarci	salvar-nos
 salvare	salvar / gravar
 salvarsi	salvar-se
 salvasse	salvasse
@@ -75565,6 +75679,7 @@ sap	sap
 sapa	sapa
 sapendo	sabendo
 sapere	saber / sabedoria / saber bem / conhecer / conhecimento
+saperlo	sabê-lo
 sapesse	soubesse
 sapessero	soubessem
 sapessi	soubesse
@@ -75748,6 +75863,7 @@ sasson	sasson
 sassone	saxão
 sassoni	saxões
 sassonia	saxónia / saxônia
+sassonia-anhalt	alta-saxônia
 sassoon	sassoon
 sassuolo	sassuolo
 sassy	sassy
@@ -77204,6 +77320,7 @@ sedentario	sedentário
 seder	seder
 sedere	bunda
 sedette	sentou-se
+sedeva	sentava
 sedgwick	sedgwick
 sedia	assento / cadeira
 sedicente	pretensamente
@@ -77335,10 +77452,12 @@ seguenti	seguintes
 segugio	sabujo
 segui	segue
 seguiamo	seguimos
+seguimi	segue-me
 seguin	seguin
 seguiranno	seguirão
 seguire	seguir / siga
 seguirebbe	seguiria
+seguirlo 	segui-lo
 seguirono	seguiram
 seguirà	seguirá
 seguirò	seguirei
@@ -77351,6 +77470,7 @@ seguivano	seguiam
 seguivo	seguia
 seguo	sigo
 seguono	seguem
+seguì	seguiu
 seh	seh
 sehen	sehen
 sei	seis
@@ -78183,6 +78303,7 @@ sfm	sfm
 sfn	sfn
 sfocata	desfocada
 sfocatura	borrão
+sfociare	resultar
 sfogo	desabafo
 sfollati	deslocados
 sfonda	arromba
@@ -78956,6 +79077,7 @@ sierpinski	sierpinski
 sierpiński	sierpiński
 sierre	sierre
 siesta	siesta
+siete	sois / estais / estão
 sieve	sieve
 sievers	sievers
 sievert	sievert
@@ -80388,6 +80510,7 @@ solskjær	solskjær
 solstice	solstice
 solstizi	solstícios
 solstizio	solstício
+soltanto	somente / só / apenas
 soltau	soltau
 solter	solter
 solubile	solúvel
@@ -80590,6 +80713,7 @@ sopravviverà	sobreviverá
 sopravvivesse	sobrevivesse
 sopravvivono	sobrevivem
 sopron	sopron
+soprusi	abusos
 sopwith	sopwith
 sora	sora
 sorabi	sorábios / sérvios da lusácia / wends / serbo-lusácios / lusácios
@@ -81261,6 +81385,7 @@ spener	spener
 spengler	spengler
 spensierata	despreocupada
 spensierato	despreocupado
+spenta	fora
 spento	desligado
 sperandio	sperandio
 speranza	esperança
@@ -81962,6 +82087,7 @@ stann	stann
 stannard	stannard
 stannico	estânico
 stannis	stannis
+stanno	estão / são
 stannoso	estanhoso
 stans	stans
 stansbury	stansbury
@@ -82043,6 +82169,7 @@ stasiak	stasiak
 stasov	stasov
 stassen	stassen
 stat	stat
+stata	estado / estar
 statale	estrada principal / funcionário público / funcionária pública / governamental / estatal
 statalismo	estatismo / estadismo
 statalizzazione	estatização
@@ -82102,7 +82229,10 @@ stauffer	stauffer
 staunton	staunton
 stauracio	estaurácio
 stauros	stauros
+stava	estava / era
 stavanger	stavanger
+stavano	estavam
+stavano 	estavam
 stavelot	stavelot
 stavka	stavka
 stavro	stavro
@@ -82959,6 +83089,7 @@ stupinigi	stupinigi
 stupire	surpreender / espantar
 stupiti	surpresos \ espantados \ estarrecidos
 stupito	surpreso \ espantado \ estarrecido
+stupore	espanto / estupor / surpresa
 stuprate	violadas
 stupratore	violador
 stupratori	violadores
@@ -83250,6 +83381,7 @@ suki	suki
 sukiyaki	sukiyaki
 sukkot	sucot
 suková	suková
+sul	em
 sula	sula
 sulaiman	sulaiman
 sulawesi	sulawesi
@@ -83258,6 +83390,7 @@ sulci	sulci
 suleiman	suleiman
 suleyman	suleyman
 sulfur	sulfur
+sulla	sobre a
 sulley	sulley
 sullivan	sullivan
 sully	sully
@@ -83362,6 +83495,7 @@ suo	seu
 suocera	sogra
 suoceri	sogros
 suocero	sogro
+suoi	seu / sua / o seu / o teu
 suola	sola
 suole	solas
 suolo	solo / terra
@@ -83370,6 +83504,7 @@ suona	soa
 suonando	tocando
 suonare	soar / tocar
 suonata	tocada
+suonato	tocado / jogado
 suonava	tocava
 suonavano	tocavam
 suoneria	ringtone
@@ -84501,6 +84636,7 @@ tantalio	tântalo
 tantalus	tantalus
 tante	tantas
 tantei	tantei
+tanti	muito / muitos
 tanto	tanto
 tantra	tantra
 tantric	tantric
@@ -85391,6 +85527,7 @@ terminare	terminar
 terminata	terminada
 terminate	terminadas
 termination	termination
+terminato	abortado / acabado / concluído / terminado
 terminator	exterminador / terminator
 terminatore	terminador
 terminazione	terminação
@@ -88049,6 +88186,7 @@ trouville	trouville
 trouvé	trouvé
 trovano	encontram
 trovare	encontrar / achar
+trovarono	encontraram
 trovata	encontrada
 trovati	encontrados
 trovato	encontrei / encontrado
@@ -89045,6 +89183,7 @@ ungureanu	ungureanu
 unhappy	unhappy
 unhcr	acnur
 unholy	unholy
+uni	uns / um
 uniamo	juntamos
 unica	única
 unicaja	unicaja
@@ -89414,6 +89553,7 @@ uscirà	sairá
 uscissero	saíssem
 uscita	saída
 uscite	saídas
+usciti	saído
 uscito	saiu
 usciva	saía
 uscivano	saíam
@@ -89560,6 +89700,8 @@ uğur	uğur
 ušakov	ushakov
 užhorod	uzhhorod
 užice	užice
+v	v / vanádio
+va	vai
 vaan	vaan
 vaart	vaart
 vaasa	vaasa
@@ -90148,9 +90290,13 @@ veche	veche
 vecino	vecino
 vectors	vectors
 vectra	vectra
+veda	vedas
 vedanta	vedanta
 vedder	vedder
+vedendo 	vendo
 vedere	ver
+vederlo	vê-lo
+vederti	te ver
 vedesse	visse
 vedessero	vissem
 vedete	vêem
@@ -90360,6 +90506,7 @@ venezuelane	venezuelanas
 venezuelani	venezuelanos
 venezuelano	venezuelano
 veng	veng
+venga	venha
 venganza	venganza
 vengeance	vengeance
 vengo	venho
@@ -90936,6 +91083,7 @@ vieira	vieira
 vieja	vieja
 viejo	viejo
 viel	viel
+viene	vem
 vieni	vem
 vienna	viena
 vienne	vienne
@@ -91196,6 +91344,7 @@ violentemente	violentamente
 violenti	violentos
 violento	violento
 violenza	violência
+violenze	violências
 violerebbe	violaria
 violet	violet
 violin	violin
@@ -91881,6 +92030,7 @@ vultee	vultee
 vultures	vultures
 vulva	vulva
 vuoi	quer
+vuol 	quer
 vuole	quer
 vuolo	vuolo
 vuorinen	vuorinen
