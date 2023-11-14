@@ -71,7 +71,7 @@ def query(word, langFrom, langTo):
         return 'error in language definition'
     if langTo not in available_languages:
         return 'error in language definition'
-    user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+    user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 
     text = {}
 
