@@ -163,6 +163,7 @@ eng_por = loadDictionaries('data/eng-por.tsv')
 fre_por = loadDictionaries('data/fre-por.tsv')
 ita_por = loadDictionaries('data/ita-por.tsv')
 lat_por = loadDictionaries('data/lat-por.tsv')
+ron_por = loadDictionaries('data/ron-por.tsv')
 
 
 def queryLocal(word, langFrom, langTo):
@@ -181,6 +182,8 @@ def queryLocal(word, langFrom, langTo):
         dictionary = ita_por
     elif langFrom == 'latin' and langTo == 'por':
         dictionary = lat_por
+    elif langFrom == 'ron' and langTo == 'por':
+        dictionary = ron_por
     else:
         return {'message': '%s-%s Dictionary not available.' % (langFrom, langTo)}
     if word in dictionary:
