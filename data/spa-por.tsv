@@ -1,5 +1,6 @@
 term	translation
 Cafarnaúm	Cafarnaum
+Jesucristo	Jesus Cristo
 a	a
 a menudo	geralmente / frequentemente
 a través	através
@@ -320,6 +321,7 @@ abolido	abolido
 aboliendo	abolindo
 abolieron	aboliram
 abolir	abolir
+abolirlos	aboli-los
 abolió	aboliu
 abollar	amolgar
 abolía	abolia
@@ -425,6 +427,7 @@ abrigos	casacos
 abril	abril
 abrimos	abrimos
 abrir	abrir
+abrirse	se abrir
 abrirá	abrirá
 abriría	abriria
 abrirían	abririam
@@ -1025,7 +1028,7 @@ acordadas	acordadas
 acordado	acordado
 acordados	acordados
 acordamos	concordamos
-acordar	acordar / lembrar
+acordar	acordar / lembrar / concordar / anuir / sintonizar
 acordaron	concordaram
 acordarse	lembrar-se
 acorde	acorde
@@ -1223,9 +1226,11 @@ acuatizaje	amerissagem / amaragem
 acuchillado	esfaqueado
 acuciante	premente
 acudir	ir / chegar / comparecer
+acudió	foi / chegou / compareceu
 acudía	ia / chegava / comparecia
 acueducto	aqueduto
 acueductos	aquedutos
+acuerdas	acordas / lembras / concordas / anuir / sintonizas
 acuerdo	acordo
 acuerdos	acordos
 acuesta	deita
@@ -1620,6 +1625,7 @@ adolpho	adolpho
 adon	adon
 adonai	adonai
 adonde	aonde
+adondequiera	onde quer que
 adonis	adonis
 adopcionismo	adocionismo
 adopción	adoção
@@ -1982,6 +1988,7 @@ afectiva	afetiva
 afectivo	afectivo
 afecto	afeto / afecto
 afectos	afetos
+afectuosa	afetuosa
 afectuosamente	carinhosamente
 afectuoso	afetuoso
 afectó	afetou / afectou
@@ -2769,6 +2776,8 @@ ajustando	ajustando
 ajustar	ajustar
 ajuste	ajuste
 ajustes	configurações
+ajusticiado	justiçado
+ajusticiados	justiçados
 ajustó	ajustou
 aka	aka
 akademi	akademi
@@ -4092,6 +4101,8 @@ alá	allah / alá
 alárabe	árabe
 alès	alès
 alégrate	alegra-te
+alégrense	alegrem-se
+aléjense	afastem-se
 alérgenos	alérgenos
 alérgica	alérgica
 alérgico	alérgico
@@ -4347,6 +4358,7 @@ amelie	amelie
 amelio	amelio
 amell	amell
 amemiya	amemiya
+amemos	amemos
 amen	amem
 amena	amena
 amenaza	ameaça
@@ -4922,6 +4934,7 @@ andamán	andamão
 andan	andam
 andando	andando
 andantino	andantino
+andar	andar / caminhar / ir
 andará	andará
 andas	andas
 andechs	andechs
@@ -5991,6 +6004,7 @@ apella	apella
 apellido	sobrenome
 apellidos	sobrenome / apelido
 apeló	apelou
+apenas	quase não / apenas / assim que
 apendicitis	apendicite
 apeninos	apeninos
 apenninum	apenninum
@@ -6374,6 +6388,7 @@ aprovechando	aproveitando
 aprovechar	aproveitar
 aprovechara	aproveitasse
 aprovecharon	aproveitaram
+aprovecharse	aproveitar / explorar / lucrar
 aprovecharía	aproveitaria
 aprovechaste	aproveitaste
 aproveche	aproveite
@@ -7447,6 +7462,7 @@ arrogantes	arrogantes
 arrogarse	arrogar
 arrojaban	atiravam
 arrojadas	atiradas
+arrojado	arrojado / imprudente / precipitado
 arrojados	atirados
 arrojamos	atiramos \ lançamos \ arremessamos
 arrojar	atirar \ lançar \ arremessar
@@ -7479,6 +7495,7 @@ arruinó	estragou
 arrupe	arrupe
 arryn	arryn
 arrábida	arrábida
+arráncatelo	arrancai-o
 ars	ars
 arsames	arsames
 arsat	arsat
@@ -8046,6 +8063,7 @@ asomada	assomada
 asoman	poke
 asomarse	espreitar
 asombra	espanta
+asombrada	assombrada
 asombrado	espantado
 asombrados	espantados
 asombrar	surpreender
@@ -8300,6 +8318,7 @@ asw	asw
 asylum	asylum
 asynchronous	asynchronous
 aséptica	asséptica
+aséptico	asséptico
 así	assim
 asíncrona	assíncrona
 asíncrono	assíncrono
@@ -9458,13 +9477,17 @@ ayudarán	ajudarão
 ayudaré	ajudarei
 ayudaría	ajudaria
 ayudarían	ajudariam
+ayudas	ajudas
 ayude	ajude
 ayuden	ajudem
 ayudo	ajudo
 ayudó	ajudou
 ayumi	ayumi
 ayumu	ayumu
+ayunando	jejuando
 ayunar	jejuar
+ayunen	jejuarem
+ayunes	jejuares
 ayuno	jejum
 ayuntamiento	prefeitura
 ayurveda	ayurveda
@@ -9541,7 +9564,8 @@ azores	açores
 azorica	azorica
 azorín	azorín
 azotado	chicoteado
-azotar	chicotear
+azotar	chicotear / açoitar / flagelar
+azotarán	chicotearão / açoitarão / flagelarão
 azote	flagelo
 azotea	telhado / terraço
 azoteas	telhados
@@ -10207,9 +10231,11 @@ bandinelli	bandinelli
 bandini	bandini
 bandits	bandits
 bandler	bandler
+bando	bando / lado / edital / acampados / bando
 bandolero	salteador
 bandon	bandon
 bandoneón	bandoneón
+bandos	bandos / lados
 bandstand	bandstand
 bandullo	barriga
 bandung	bandung
@@ -12247,7 +12273,9 @@ bien	bem
 bienal	bienal
 bienales	bienais
 bienaventurada	aventurada
+bienaventurado	abençoado / bem-aventurado
 bienaventurados	abençoados
+bienaventuranzas	bem-aventuranças
 bienes	bens
 bienestar	bem-estar / prosperidade / saúde
 bienintencionado	intencionado
@@ -12815,6 +12843,7 @@ blasco	blasco
 blasetti	blasetti
 blasfema	blasfema
 blasfemar	blasfemar
+blasfeme	blasfema / blasfemar
 blasfemia	blasfêmia
 blasfemias	blasfêmias
 blasfemo	blasfemo
@@ -14426,6 +14455,8 @@ brillantes	brilhantes
 brillantez	brilhantismo
 brillar	brilhar
 brillaron	brilharam
+brillarán	brilharão
+brille	brilhe
 brillo	brilho
 brillos	brilhos
 brillouin	brillouin
@@ -15297,6 +15328,7 @@ buscamos	procuramos
 buscan	buscam / procuram
 buscando	procurando
 buscar	pesquisar / buscar / procurar
+buscarlo	buscá-lo / procurá-lo / pesquisá-lo
 buscaron	procuraram
 buscará	procurará
 buscaré	procurarei
@@ -16468,6 +16500,7 @@ canalizó	canalizou
 canalla	canalha
 canallas	canalhas
 cananea	cananéia
+cananeo	cananeu
 cananeos	cananeus
 canard	canard
 canards	canards
@@ -18525,6 +18558,7 @@ centerville	centerville
 centinela	sentinela
 centinelas	sentinelas
 centollo	santola
+centra	centra / focaliza / concentra / centraliza
 centraal	centraal
 centraba	centrava
 centraban	centravam
@@ -18550,7 +18584,7 @@ centralizados	centralizados
 centralizar	centralizar
 centralmente	centralmente
 centranthus	centranthus
-centrar	centrar
+centrar	centrar / focalizar / concentrar / centralizar
 centrara	concentrasse
 centraron	centraram
 centrarse	foco
@@ -18630,6 +18664,7 @@ cerca	perto
 cercada	cercada
 cercado	cercado
 cercados	cercados
+cercano	próximo / vizinho / perto
 cercanía	proximidade
 cercas	cercas
 cerchio	cerchio
@@ -21690,6 +21725,7 @@ comete	comete
 cometemos	cometemos
 cometen	cometem
 cometer	cometer
+cometerás	cometerás
 cometería	cometeria
 cometida	cometida
 cometidas	cometidas
@@ -22422,6 +22458,7 @@ concordia	concórdia
 concours	concours
 concreción	concretização
 concreta	concreto
+concretamente	concretamente / especificamente
 concretan	concretizam
 concretando	concretizando
 concretar	concretizar
@@ -23156,7 +23193,9 @@ consobrina	consobrina
 consol	consol
 consola	console
 consolación	consolação
+consolado	consolado
 consolador	vibrador
+consolados	consolados
 consolar	consolar / aliviar / confortar
 consolas	consoles / consolas
 consolata	consolata
@@ -23795,6 +23834,7 @@ convertidos	convertidos
 convertimos	tornamos
 convertir	converter
 convertirse	virar / tornar / tornar-se
+convertirte	te converter
 convertirá	tornará
 convertirán	tornarão
 convertirían	tornariam
@@ -24585,6 +24625,7 @@ costa de marfil	costa do marfim
 costaba	custava
 costaban	custavam
 costaceae	costaceae
+costado	lado / costado / flanco
 costae	costae
 costanera	costanera
 costantini	costantini
@@ -25984,6 +26025,7 @@ curando	curando
 curar	curar
 curara	curasse
 curare	curare
+curarme	me curar
 curaron	curaram
 curas	curas
 curatella	curatella
@@ -26142,6 +26184,7 @@ cuáquero	quaker
 cuáqueros	quakers
 cuéllar	cuéllar
 cuídate	cuida
+cuídense	cuidem-se / tomem cuidado
 cuña	cunha
 cuñada	cunhada
 cuñado	cunhado
@@ -26808,6 +26851,7 @@ darla	darla
 darlan	darlan
 darle	lhe dar / dar-lhe
 darlene	darlene
+darles	lhes dar / dar lhes
 darley	darley
 darling	darling
 darlington	darlington
@@ -27045,8 +27089,9 @@ dealer	dealer
 dealey	dealey
 dealing	dealing
 deambula	vagueia
+deambulaba	vagava / vagueava / perambulava
 deambulan	vagueiam
-deambular	vaguear
+deambular	vagar / vaguear / perambular
 dean	dean
 deandre	deandre
 deane	deane
@@ -27251,6 +27296,7 @@ decipiens	decipiens
 decir	dizer
 decirle	dizer-lhe
 decirles	lhes dizer \ dizer a eles
+decirlo	dizê-lo
 decision	decisão
 decisiones	decisões
 decisiva	decisiva
@@ -27601,11 +27647,13 @@ dejarán	deixarão
 dejaré	deixarei
 dejaría	deixaria
 dejarían	deixariam
+dejas	deixas
 dejasen	deixassem
 deje	deixe
 dejean	dejean
 dejemos	deixemos
 dejen	deixem
+dejes	deixe
 dejima	dejima
 dejo	deixo
 dejohnette	dejohnette
@@ -28427,7 +28475,8 @@ desastrosa	desastrosa
 desastrosas	desastrosas
 desastroso	desastroso
 desastrosos	desastrosos
-desatar	desatar
+desatar	desatar / soltar / libertar
+desataron	desataram / soltaram / libertaram
 desataría	desencadearia
 desatascar	desentupir / desatolar
 desatender	negligenciar
@@ -29791,6 +29840,7 @@ dicho	dito
 dichorisandra	dichorisandra
 dichos	ditos
 dichoso	feliz / ditoso / afortunado
+dichosos	felizes / ditosos / afortunados
 dichotoma	dichotoma
 dichotomus	dichotomus
 dichroa	dichroa
@@ -29798,6 +29848,7 @@ dichter	dichter
 dichtung	dichtung
 diciembre	dezembro
 diciendo	dizendo
+diciéndole	lhe dizendo
 diciéndoles	dizendo a eles
 dick	dick
 dicke	dicke
@@ -29883,6 +29934,7 @@ diente de león	dente-de-leão
 dientes	dentes
 dieppe	dieppe
 dieran	dessem
+diere	der / dar
 dierks	dierks
 dieron	deram
 dies	dies
@@ -30964,6 +31016,7 @@ divorciada	divorciada
 divorciadas	divorciadas
 divorciado	divorciado
 divorciados	divorciados
+divorcie	divorcia
 divorcio	divórcio
 divulga	divulga
 divulgación	divulgação
@@ -31227,6 +31280,8 @@ dolby	dolby
 dolce	dolce
 dolci	dolci
 dole	dole
+dolencia	doença / enfermidade
+dolencias	doenças / enfermidades
 doler	doer
 dolf	dolf
 dolgopolov	dolgopolov
@@ -31405,6 +31460,7 @@ doncella	donzela
 doncellas	donzelas
 dondale	dondale
 donde	onde
+dondequiera	em qualquer lugar / em todo lugar / algum lugar
 done	doe
 donegal	donegal
 donegan	donegan
@@ -32406,6 +32462,7 @@ défense	défense
 déficit	défice
 déficits	défices
 déjalo	deixa
+déjame	deixa-me
 déjanos	deixa-nos \ deixe-nos
 déjà	déjà
 démocratie	démocratie
@@ -32609,6 +32666,7 @@ ecdysozoa	ecdysozoa
 ece	ece
 ecf	ecf
 ecg	ecg
+echa	arremessa / lança / atira
 echaba	arremessava / lançava / atirava
 echaban	arremessavam / lançavam / atiravam
 echagüe	echagüe
@@ -34266,6 +34324,7 @@ encienden	acendem
 encierran	encerram
 encierro	fechamento
 enciklopedija	enciklopedija
+encima	acima / em cima / ainda por cima
 encina	encina
 encinares	azinhais
 encino	carbalho / encino
@@ -34292,6 +34351,7 @@ encontramos	encontramos
 encontrando	encontrando
 encontrar	achar / encontrar
 encontraremos	encontraremos
+encontrarlo	encontrá-lo
 encontraron	encontraram
 encontrará	encontrará
 encontrarán	encontrarão
@@ -34544,6 +34604,7 @@ engañados	enganado
 engañan	enganam
 engañando	enganando
 engañar	iludir
+engañarnos	nos enganar
 engañaron	enganaram
 engaño	engano
 engaños	enganos
@@ -34614,6 +34675,8 @@ enja	enja
 enjambre	enxame
 enjambres	enxames
 enjolras	enjolras
+enjuiciar	ajuizar / levar a juízo
+enjuicien	ajuizem / levem a juízo
 enka	enka
 enki	enki
 enkidu	enkidu
@@ -34661,6 +34724,8 @@ enoch	enoch
 enojada	chateada
 enojado	irado
 enojados	zangados
+enojar	enraivecer / irar / encolerizar
+enoje	enraivece / ira / encoleriza
 enojo	raiva
 enol	enol
 enola	enola
@@ -34754,6 +34819,7 @@ enseñanza	ensino
 enseñanzas	ensinamentos
 enseñar	mostrar / ensinar
 enseñaran	ensinassem
+enseñarles	ensiná-los
 enseñaron	ensinaram
 enseñará	ensinará
 enseñaría	ensinaria
@@ -34793,6 +34859,7 @@ entendiendo	entendendo
 entendiera	entendesse
 entendieran	entendessem
 entendieron	entenderam
+entendiese	entendesse
 entendimiento	entendimento
 entendió	entendeu
 entendí	entendi
@@ -34841,6 +34908,7 @@ entienden	entendem
 entiendo	compreendo / entendi / entendo
 entierra	enterra
 entierran	enterram
+entierren	enterrem
 entierro	enterro
 entirely	entirely
 entitled	entitled
@@ -34870,6 +34938,7 @@ entran	entram
 entrando	entrando
 entrar	entrar
 entraron	entraram
+entrará	entrará
 entrarán	entrarão
 entraré	entrarei
 entraría	entraria
@@ -34896,6 +34965,7 @@ entregaría	entregaria
 entregarían	entregavam
 entregas	entregas
 entrego	entrego
+entregue	entregue / dê / forneça
 entreguen	entreguem
 entregó	entregou
 entrelaza	entrelaça
@@ -35803,6 +35873,7 @@ escondieron	esconderam
 escondite	esconderijo
 escondites	esconderijos
 escondió	escondeu
+escondo	escondo / esconder
 escondrijo	esconderijo
 escondrijos	esconderijos
 escondía	escondia
@@ -35880,6 +35951,7 @@ escucha	escuta
 escuchaba	escutava / ouvia
 escuchaban	ouviam
 escuchado	ouvido
+escuchados	escutados / ouvidos
 escuchan	escutam
 escuchando	escutando / ouvindo
 escuchar	ouvir / escutar
@@ -35928,6 +36000,8 @@ escupió	cuspiu
 escurre	escorre
 escurridizo	escorregadio
 escurrir	escorrer
+escusa	excusa / disculpa
+escusas	excusas / disculpas
 escusón	escudete
 escuálido	esquálido
 escándalo	escândalo
@@ -36245,6 +36319,7 @@ espinel	espinel
 espinilleras	caneleiras
 espino	espinheiro
 espinocerebelosa	espinocerebelar
+espinos	espinhos
 espinosa	espinosa
 espinosas	espinhosas
 espinoso	espinhoso
@@ -36538,6 +36613,7 @@ estar	estar
 estare	estarei
 estaremos	estaremos
 estarlo	estar
+estará	estará
 estarán	estarão
 estarás	estarás
 estaré	estarei
@@ -43364,6 +43440,7 @@ germinal	germinal
 germinales	germinativas
 germinan	germinam
 germinar	germinar
+germinaron	germinaram
 germoplasma	germoplasma
 germplasm	germplasm
 germs	germs
@@ -45491,6 +45568,7 @@ guardó	guardou
 guarea	guarea
 guarenas	guarenas
 guarida	covil
+guaridas	tocas / guaridas / cavernas
 guarini	guarini
 guarino	guarino
 guarinos	guarinos
@@ -46083,6 +46161,7 @@ hablas	falas
 hable	fale
 hablen	falem
 hablo	falo
+hablándoles	falando a eles / lhes falando
 hablé	falei
 habló	falou
 habranthus	habranthus
@@ -48009,6 +48088,7 @@ hierarchia	hierarchia
 hierarchical	hierarchical
 hierba	erva
 hierbas	ervas
+hiere	fere / machuca
 hieren	ferem
 hiern	hiern
 hierocles	hiérocles
@@ -49786,6 +49866,7 @@ hábitats	habitats
 hábito	hábito
 hábitos	hábitos
 hágalo	faça
+hágase	faça-se / seja feito
 hágsater	hágsater
 hámster	hamster
 hámsters	hamsters
@@ -50554,6 +50635,7 @@ impactando	impactando
 impactante	chocante
 impacto	impacto
 impactos	impactos
+impactó	impactou
 impago	incumprimento
 impala	impala
 impar	ímpar
@@ -51972,6 +52054,7 @@ ininterrumpidamente	ininterruptamente
 ininterrumpidas	ininterruptas
 ininterrumpido	ininterrupto
 ininterrumpidos	ininterruptos
+iniquidad	injustiça / abominação / iniquidade / maldade
 init	init
 initiative	initiative
 initio	initio
@@ -60445,6 +60528,7 @@ llevaba	levava
 llevaban	levavam
 llevada	levada
 llevadas	levadas
+llevado	carregado / conduzido / levado
 llevados	levados
 llevamos	levamos
 llevan	levam
@@ -61586,6 +61670,7 @@ látex	látex
 látigo	chicote
 látigos	chicotes
 láudano	láudano
+lávate	lava-te
 lázaro	lázaro
 lázica	lázica
 länder	länder
@@ -61975,6 +62060,7 @@ madrigal	madrigal
 madrigales	madrigais
 madrigali	madrigali
 madriguera	toca
+madrigueras	tocas / cavernas
 madrileño	madrileno
 madrina	madrinha
 madrinas	madrinhas
@@ -62550,7 +62636,9 @@ malva	malva
 malvaceae	malvaceae
 malvada	malvada
 malvadamente	perversamente
+malvadas	malvadas
 malvado	malvado
+malvados	malvados
 malvales	malvales
 malvasia	malvasia
 malvavisco	marshmallow
@@ -66612,8 +66700,9 @@ mirandesa	mirandesa
 mirando	olhando
 mirandola	mirandola
 mirandés	mirandês
-mirar	olhar
+mirar	olhar / mirar / observar
 miraron	olharam
+mirarán	olharão / mirarão / observarão
 miraz	miraz
 mirbeau	mirbeau
 mirc	mirc
@@ -66688,7 +66777,10 @@ miseria	miséria
 miserias	misérias
 misericordia	misericórdia
 misericordias	misericórdias
+misericordiosa	misericordiosa
+misericordiosas	misericordiosas
 misericordioso	misericordioso
+misericordiosos	misericordiosos
 misery	misery
 mises	mises
 misfits	misfits
@@ -68414,6 +68506,7 @@ muchedumbres	multidões
 muchmusic	muchmusic
 mucho	muito
 muchos	muitos
+muchísimo	muitíssimo
 muciano	muciano
 mucina	mucina
 mucio	múcio
@@ -75106,6 +75199,7 @@ paralímpico	paralímpico
 paralímpicos	paraolímpicos
 paralítica	paralisada
 paralítico	paralítico
+paralíticos	paralíticos
 paramagnética	paramagnética
 paramahansa	paramahansa
 paramaribo	paramaribo
@@ -76651,10 +76745,14 @@ perdonada	perdoada
 perdonado	perdoado
 perdonados	perdoados
 perdoname	perdoa
+perdonamos	perdoamos
 perdonan	perdoam
+perdonando	perdoando
 perdonar	perdoar
 perdonara	perdoasse
 perdonaron	perdoaram
+perdonará	perdoará
+perdonarán	perdoarão
 perdonaría	perdoaria
 perdone	perdão / desculpe
 perdonen	perdoem
@@ -76764,6 +76862,7 @@ perfume	perfume
 perfumería	perfumaria
 perfumes	perfumes
 perfusión	perfusão
+perfúmate	perfuma-te
 pergamino	pergaminho
 pergaminos	pergaminhos
 pergamon	pergamon
@@ -76922,6 +77021,7 @@ permuta	permuta
 permutaciones	permutações
 permutación	permutação
 permítanme	permitam
+permíteme	permite-me
 pernambucano	pernambucano
 pernambuco	pernambuco
 perniciosa	perniciosa
@@ -77783,6 +77883,7 @@ pietermaritzburg	pietermaritzburg
 pieters	pieters
 pieterszoon	pieterszoon
 pietismo	pietismo
+pietismos	pietismos
 pietista	pietista
 pietra	pietra
 pietrangeli	pietrangeli
@@ -78412,6 +78513,7 @@ plantillas	modelos / moldes
 plantin	plantin
 plantinga	plantinga
 plantis	plantis
+plantitas	plantinhas
 plantó	plantou
 planum	planum
 planus	planus
@@ -79784,6 +79886,8 @@ precario	precário
 precarios	precários
 precauciones	precauções
 precaución	cuidado / precaução
+precavido	precavido / cauteloso
+precavidos	precavidos / cautelosos
 precede	precede
 preceden	precedem
 precedencia	precedência
@@ -80123,6 +80227,7 @@ presentar	apresentar
 presentaran	apresentassem
 presentaron	apresentaram
 presentarse	apresentar-se / aparecer / surgir
+presentarte	te apresentar
 presentará	apresentará
 presentarán	apresentarão
 presentaría	apresentaria
@@ -80645,6 +80750,7 @@ proclamando	proclamando
 proclamar	proclamar
 proclamaron	proclamaram
 proclamas	proclamações
+proclamen	proclamem
 proclamó	proclamou
 proclítico	proclítico
 procol	procol
@@ -81472,10 +81578,12 @@ pseudoaleatorios	pseudoaleatórios
 pseudobulbo	pseudobulbo
 pseudobulbos	pseudobulbos
 pseudociencia	pseudociência
+pseudocristianos	falsos cristãos / pseudo-cristãos
 pseudocódigo	pseudocódigo
 pseudoeurycea	pseudoeurycea
 pseudomonas	pseudomonas
 pseudopaludicola	pseudopaludicola
+pseudopastores	falsos pastores / pseudo-pastores
 pseudophilautus	pseudophilautus
 pseudoplatanus	pseudoplatanus
 pseudotsuga	pseudotsuga
@@ -81695,6 +81803,7 @@ pueblan	povoam
 pueblito	cidadezinha
 pueblo	vilarejo / povo
 pueblos	povos
+pueda	possa
 puedan	puderem
 puede	pode
 pueden	podem
@@ -81917,6 +82026,7 @@ purificador	purificador
 purificadores	purificador
 purificados	purificados
 purificar	purificar
+purificarte	te purificar
 purificó	purificou
 purim	purim
 purina	purina
@@ -82298,8 +82408,13 @@ quebradizo	quebradiço
 quebrado	falido
 quebrados	falidos
 quebrantada	trituradas
+quebrantar	quebrar / esmagar / britar
+quebrante	quebrado
 quebrantó	infringiu
 quebrapedra	quebra-pedra
+quebrar	romper / quebrar / partir
+quebraron	romperam / quebraram / partiram
+quebrarán	romperão / quebrarão / partirão
 quebró	quebrou
 quechua	quechua
 queda	fica
@@ -82308,6 +82423,8 @@ quedaban	ficavam / restavam
 quedado	ficado
 quedamos	ficamos
 quedan	restam / sobraram
+quedar	ficar / permanecer / restar
+quedaran	ficaram / permaneceram / restaram
 quedarme	ficar
 quedarnos	ficar
 quedaron	ficaram
@@ -83555,7 +83672,9 @@ rebecca	rebecca
 rebeka	rebeka
 rebekah	rebekah
 rebel	rebel
+rebela	rebela / rebelar
 rebelan	revoltam
+rebelar	rebelar / rebelde / rebelar-se
 rebelaron	rebelaram
 rebelde	rebelde
 rebeldes	rebeldes
@@ -83744,6 +83863,7 @@ reclasificados	reclassificados
 reclasificar	reclassificar
 reclinada	reclinada
 reclinado	reclinado
+reclinar	apoiar-se / reclinar
 reclus	reclus
 reclusa	reclusa
 reclusión	reclusão
@@ -83817,6 +83937,7 @@ recompensada	recompensada
 recompensado	recompensado
 recompensados	recompensados
 recompensar	recompensar
+recompensará	recompensará
 recompensas	recompensas
 recompensó	recompensou
 recomponer	recompor
@@ -83840,6 +83961,7 @@ reconoce	reconhece
 reconocemos	reconhecemos
 reconocen	reconhecem
 reconocer	reconhecer
+reconocerlo	reconhecê-lo
 reconocerá	reconhecerá
 reconocería	reconheceria
 reconocerían	reconheceriam
@@ -85037,6 +85159,7 @@ renovados	renovados
 renovando	renovando
 renovar	renovar
 renovaron	renovaram
+renovarte	te renovar
 renovó	renovou
 rensburg	rensburg
 renshaw	renshaw
@@ -85071,6 +85194,7 @@ renzi	renzi
 renzo	renzo
 rené	rené
 renée	renée
+reo	réu
 reocupación	reocupação
 reología	reologia
 reordenación	reordenamento
@@ -86552,6 +86676,7 @@ ritterkreuzes	ritterkreuzes
 ritts	ritts
 ritual	ritual
 rituales	rituais
+ritualista	ritualista / ritualístico
 ritualmente	ritualmente
 ritz	ritz
 riu	riu
@@ -86901,6 +87026,7 @@ roewer	roewer
 rog	rog
 rogaba	implorava
 rogaban	imploravam
+rogad	rogai / orai / rezai
 rogado	rogado
 rogaland	rogaland
 rogan	rogan
@@ -87622,6 +87748,7 @@ ruedan	rolam
 ruedas	rodas
 ruega	rogai
 ruego	imploro
+rueguen	roguem / orem / rezem
 ruehl	ruehl
 rueil	rueil
 ruel	ruel
@@ -88907,6 +89034,7 @@ santander	santander
 santangelo	santangelo
 santaolalla	santaolalla
 santarém	santarém
+santas	santas
 santateresa	cavalinho-de-deus / mantídeo / louva-a-deus
 santayana	santayana
 sante	sante
@@ -89995,6 +90123,7 @@ secando	secando
 secano	sequeiro
 secante	secante
 secar	secar
+secaron	secaram
 secas	secas
 secaucus	secaucus
 secchi	secchi
@@ -90514,6 +90643,7 @@ sencilla	simples
 sencillamente	simplesmente
 sencillez	simplicidade
 sencillo	simples / singelo / resumido
+sencillos	simples
 send	send
 senda	trilha
 sendai	sendai
@@ -90623,6 +90753,7 @@ sentient	sentient
 sentimental	sentimental
 sentimentales	sentimentais
 sentimentalismo	sentimentalismo
+sentimentalismos	sentimentalismos
 sentimiento	sentimento
 sentimientos	sentimentos
 sentimos	sentimos
@@ -92446,6 +92577,7 @@ sirvientes	servos
 sirviera	servisse
 sirvieran	servissem
 sirvieron	serviram
+sirviéndose	servindo-se
 sirvió	serviu
 sirvo	sirvo
 siryn	siryn
@@ -92943,6 +93075,7 @@ soborna	suborna
 sobornado	subornado
 sobornados	subornados
 sobornar	subornar
+sobornarlo	suborná-lo
 soborno	suborno
 sobornos	subornos
 sobornó	subornou
@@ -93121,6 +93254,7 @@ sofocado	sufocado
 sofocando	sufocando
 sofocante	sufocante
 sofocar	sufocar
+sofocaron	sufocaram
 sofocos	rubor
 sofocó	sufocou
 sofonisba	sofonisba
@@ -97849,6 +97983,7 @@ tenenbaum	tenenbaum
 tener	ter
 tenera	tenera
 tenerife	tenerife
+tenerla	tê-la
 tenerlo	tê-lo
 tenerrima	tenerrima
 teneré	ténéré
@@ -99576,6 +99711,7 @@ tornillo	tarraxa / parafuso
 tornillos	parafusos
 tornio	tornio
 torniquete	torniquete
+torno	torno / torno mecânico / catraca / torno / torno mecânico
 tornos	tornos
 toro	toiro / touro
 toroidal	toroidal
@@ -100048,6 +100184,7 @@ tranquilizante	tranquilizante
 tranquilizantes	tranquilizantes
 tranquilizar	tranquilizar
 tranquilo	tranquilo
+tranquilos	tranquilos
 trans	trans
 transacciones	transações
 transacción	transação
@@ -100328,7 +100465,10 @@ traslación	translação
 trasladado	transferido
 trasladarán	movimentados
 traslado	transferência
+traspasar	traspassar / trespassar / passar
+traspasaron	traspassaram / trespassaram / passaram
 traspasos	transferências
+traspasó	traspassou / trespassou / passou
 trasplantado	transplantado
 trasplantados	transplantados
 trasplantar	transplantar
@@ -107556,10 +107696,11 @@ zarista	czarista
 zarra	zarra
 zarur	zarur
 zarya	zarya
-zarza	sarça
+zarza	sarça / arbusto
 zarzamora	amora
 zarzamoras	amoras
 zarzaparrilla	sarçaparrilha / salsaparrilha
+zarzas	sarças / arbustos
 zarzuela	zarzuela
 zarzuelas	zarzuelas
 zas	zás
