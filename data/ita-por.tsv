@@ -1,5 +1,6 @@
 term	translation
 Isacco	isaque / isaac / isaac
+Mt	Mateus
 a	a (preposição)
 a bruciapelo	a queima-roupa
 a caso	ao acaso / aleatoriamente
@@ -99,7 +100,7 @@ abbassava	baixava
 abbasso	abaixo
 abbastanza	bastante
 abbath	abbath
-abbattere	derrubar
+abbattere	abater / derrubar / demolir
 abbattimenti	abates
 abbattimento	dejeção
 abbattuta	abatida
@@ -481,6 +482,7 @@ accattivante	cativante
 accattonaggio	mendicidade
 accecante	ofuscante
 accecare	cegar
+accedere	aceder / entrar / conectar
 accedi	acesse
 accel	accel
 accelera	acelera
@@ -829,6 +831,7 @@ acquisiti	adquiridos
 acquisition	acquisition
 acquisito	adquirido
 acquisizione	aquisição
+acquistare	comprar / adquirir / compra
 acquistati	comprados / adquiridos
 acquistato	comprou / comprado
 acquisti	compras
@@ -1710,6 +1713,7 @@ agiografica	hagiográfica
 agios	agios
 agip	agip
 agire	agir
+agisce	age / atua
 agisco	ajo
 agiscono	agem
 agisse	agisse
@@ -2650,6 +2654,7 @@ allarga	alarga
 allargamenti	alargamentos
 allargamento	alargamento
 allargando	alargando
+allargare	ampliar / expandir / alargar
 allargata	alargada
 allarmante	alarmante
 allarmanti	alarmantes
@@ -2789,6 +2794,8 @@ allontanamento	afastamento
 allontanando	afastando
 allontanano	afastam
 allontanare	afastar
+allontanatevi	afastai-vos
+allontanato	afastado / separado
 allontanava	afastava
 allontanavano	afastavam
 allontani	afaste
@@ -3038,6 +3045,7 @@ altoona	altoona
 altoparlante	altifalante
 altopiani	planaltos
 altopiano	planalto
+altra	outra / outro
 altre	outras
 altrettanto	igualmente / tão / também
 altri	outros
@@ -3401,6 +3409,7 @@ amma	amma
 ammaccare	amassar
 ammaccatura	amassado
 ammalarsi	adoecer
+ammalati	doentes / enfermos
 ammalato	doente / enfermo / doença
 amman	amã
 ammanettato	algemado
@@ -3905,6 +3914,7 @@ aneddoti	anedotas
 aneddotica	anedótica
 aneddoto	anedota
 anedonia	anedonia
+anelito	saudade / suspiro / anseio
 anelka	anelka
 anelli	anéis
 anellidi	anelídeos
@@ -4937,6 +4947,7 @@ apprendisti	aprendizes
 apprezza	aprecia / valoriza
 apprezzabile	apreciável
 apprezzano	valorizam / apreciam
+apprezzare	apreciar / estimar / prezar
 apprezzate	apreciadas
 apprezzati	apreciados
 apprezzato	apreciado
@@ -6097,6 +6108,7 @@ ascoltare	escutar / ouvir
 ascoltarlo	escutá-lo
 ascoltata	ouvida
 ascoltate	escutai
+ascoltati	escutados / ouvidos
 ascoltato	escutado
 ascoltatore	ouvinte
 ascoltatori	ouvintes
@@ -7391,6 +7403,7 @@ average	average
 avere	possessão / haver / ter
 averell	averell
 averi	haveres
+averlo	tê-lo
 averroè	averróis
 aversa	aversa
 avery	avery
@@ -7540,6 +7553,7 @@ avvicinando	aproximando
 avvicinano	aproximam
 avvicinare	aproximar
 avvicinarlo	aproximá-lo
+avvicinarono	aproximaram
 avvicinasse	aproximasse
 avvicinava	aproximava
 avvicinavano	aproximavam
@@ -7897,6 +7911,7 @@ badalamenti	badalamenti
 badalona	badalona
 badalucco	badalucco
 badante	cuidador / cuidadora
+badare	cuidar / olhar / ver
 badass	badass
 badd	badd
 baddeley	baddeley
@@ -9165,6 +9180,7 @@ beatificata	beatificada
 beatificato	beatificado
 beatificazione	beatificação
 beating	beating
+beatitudine	êxtase / júbilo / gáudio
 beatle	beatle
 beatlemania	beatlemania
 beatles	beatles
@@ -9556,6 +9572,7 @@ benazzi	benazzi
 bench	bench
 benchley	benchley
 benchmarking	benchmarking
+benché	embora / conquanto / se bem que
 bencic	bencic
 bend	bend
 bendare	bandar
@@ -9985,7 +10002,10 @@ bessone	bessone
 bessy	bessy
 best	best
 beste	beste
+bestemmia	blasfémia / blasfêmia / palavrão
 bestemmiare	blasfemar
+bestemmiato	blasfemado
+bestemmie	blasfêmias
 besten	besten
 bester	bester
 bestia	besta
@@ -13456,6 +13476,7 @@ cadavere	cadáver
 cadaveri	cadáveres
 cadaverina	cadaverina
 cadbury	cadbury
+cadde	cai
 caddero	caíram
 caddie	caddie
 caddo	caddo
@@ -14062,6 +14083,7 @@ canalis	canalis
 canalizzato	canalizado
 canalizzazione	canalização
 cananei	cananeus
+cananeo	cananeu
 canapa	cânhamo
 canard	canard
 canaria	canaria
@@ -17749,6 +17771,7 @@ clerc	clerc
 clerck	clerck
 clericale	clerical
 clericali	clericais
+clericalistico	clericalista / clerical
 clerici	clerici
 cleristorio	clerestório
 clerk	clerk
@@ -18491,6 +18514,7 @@ colubrina	colubrina
 colucci	colucci
 coluccio	coluccio
 coluche	coluche
+colui	com aquele / com esse
 colum	colum
 columba	columba
 columbia	columbia
@@ -18604,6 +18628,7 @@ comiket	comiket
 comillas	comillas
 comin	comin
 comincerei	começaria
+comincia	começa / inicia
 cominciare	começar / iniciar
 cominciavano	começavam
 cominciò	começou \ iniciou
@@ -18825,6 +18850,7 @@ compimento	conclusão \ finalização
 compiti	tarefas
 compito	tarefa
 compiuta	cumprida
+compiuto	realizado / cumprido
 compiz	compiz
 compiègne	compiègne
 complaint	complaint
@@ -18947,6 +18973,7 @@ comprime	comprime
 comprimere	comprimir
 compro	compro
 compromessa	comprometida
+compromessi	compromissos
 compromettendo	comprometendo
 compromettente	comprometedora
 compromettenti	comprometedoras
@@ -19146,6 +19173,7 @@ concorrenza	concorrência
 concorsi	competições / concursos
 concorso	concurso / competição
 concours	concours
+concreti	concretos
 concretizza	concretiza
 concretizzano	concretizam
 concreto	concreto / tangível
@@ -19633,6 +19661,7 @@ consistevano	consistiam
 consistono	consistem
 consol	consol
 consolare	consular
+consolati	consolados
 consolation	consolation
 consolato	consulado
 consolatore	consolador
@@ -20027,6 +20056,7 @@ converte	converte
 converted	converted
 convertire	converter / comutar
 convertirono	converteram
+convertirti	te converter
 convertirà	converterá
 convertita	convertida
 convertiti	convertidos
@@ -21090,6 +21120,7 @@ credessero	acreditassem
 credeva	acreditava
 credevano	acreditavam / acreditaram
 crediamo	acreditamos
+crediate	acreditem / creiam
 credibilità	credibilidade
 credit	credit
 crediti	créditos
@@ -22090,6 +22121,7 @@ dagenham	dagenham
 dagger	dagger
 daggett	daggett
 daghestan	daguestão
+dagli	dos / de
 dagmar	dagmar
 dagobah	dagobah
 dagoberto	dagoberto
@@ -23711,6 +23743,7 @@ destinatari	destinatários
 destinatario	destinatário
 destinate	destinadas
 destination	destination
+destinato	destinado
 destinazione	destino
 destinazioni	destinos
 destituzione	destituição
@@ -24091,6 +24124,7 @@ dichiarato	declarado
 dichiarava	declarava
 dichiarazione	afirmação / declaração
 dichiarazioni	declarações
+dichiarerò	declararei / direi
 dichiari	declare
 dichiariamo	declaramos
 dichiarino	declarem
@@ -24317,7 +24351,9 @@ digitare	digitar / digite
 digitata	digitada
 digitato	digitado
 digits	digits
+digiunano	jejuam
 digiunare	jejuar
+digiuni	jejuas
 digiuno	jejum / jejuno
 digivice	digivice
 diglossia	diglossia
@@ -25042,7 +25078,7 @@ dissuadere	dissuadir
 dissuasione	dissuasão
 dissuaso	dissuadido
 dist	dist
-distaccato	destacado / alijado
+distaccato	destacado / alijado / distante / afastado
 distacchi	destacamentos
 distacco	postagem
 distale	distal
@@ -25923,6 +25959,8 @@ dovrebbe	deveria / deve
 dovrebbero	devem / deveriam
 dovrei	devia
 dovremmo	devemos / devíamos / deveríamos
+dovrà	deverá
+dovunque	em qualquer lugar / onde quer que / algum lugar
 dovuta	devida
 dovute	devidas
 dovuti	devidos
@@ -26657,9 +26695,6 @@ dąbrowa	dąbrowa
 dąbrowski	dąbrowski
 děčín	děčín
 dīn	dīn
-dōjinshi	dōjinshi
-džeko	džeko
-dương	dương
 d’angolo	de ângulo / angular
 d’oro	áureo / de ouro / áurea
 e	e
@@ -26742,12 +26777,19 @@ ebano	ébano
 ebay	ebay
 ebb	ebb
 ebba	ebba
+ebbe	teve
 ebbene	pois / ora
 ebbero	tiveram
 ebbinghaus	ebbinghaus
+ebbio	ébulo / sabugueiro-anão
+ebbra	bêbada / bêbado
+ebbrezza	embriaguez / ebriedade / bebedeira
+ebbro	bêbado / bêbedo / bêbada
 ebcdic	ebcdic
 ebd	ebd
 ebden	ebden
+ebdomada	semana
+ebdomadario	semanal / hebdomadário / semanalmente / semanário
 ebe	hebe
 ebeling	ebeling
 eben	eben
@@ -26816,6 +26858,7 @@ eccentrico	excêntrico
 eccessivamente	excessivamente
 eccessivo	excessivo
 eccesso	excesso
+eccetto	exceto / salvo / menos / excepto
 eccezionale	excecional / excepcional
 eccezionali	excepcionais
 eccezionalità	excecionalidade
@@ -28928,6 +28971,7 @@ esame di maturità	bacharelado
 esametro	hexâmetro
 esami	exames
 esamina	examina
+esaminando	examinando / inspecionando / investigando
 esaminare	examinar / examine
 esaminata	examinada
 esaminate	examinadas
@@ -30222,6 +30266,7 @@ fachin	fachin
 fachini	fachini
 fachiro	faquir
 facile	fácil
+facili	fácil
 facilita	facilita
 facilitando	facilitando
 facilitano	facilitam
@@ -30737,6 +30782,7 @@ fato	sorte
 fatou	fatou
 fats	fats
 fatso	fatso
+fatta	feita
 fattah	fatah
 fatte	feitas
 fatti	fatos
@@ -35020,6 +35066,7 @@ germinare	germinar
 germinazione	germinação
 germogli	rebentos
 germogliare	brotar
+germogliò	germinou / brotou
 germoplasma	germoplasma
 germs	germs
 germán	germán
@@ -35156,6 +35203,7 @@ gex	gex
 geyer	geyer
 geyser	géiser / geyser
 geza	geza
+geènna	geena
 gfc	gfc
 gfdl	gfdl
 gfk	gfk
@@ -36784,6 +36832,7 @@ grattugiata	ralada
 grattugiato	ralado
 gratuita	gratuita
 gratuitamente	gratuitamente
+gratuite	gratuitas
 gratuito	gratuito / grátis
 gratuità	grátis
 grauer	grauer
@@ -38178,6 +38227,7 @@ hannes	hannes
 hanni	hanni
 hannibal	hannibal
 hannigan	hannigan
+hanno	têm
 hannon	hannon
 hannover	hanôver
 hanns	hanns
@@ -41000,6 +41050,7 @@ illogico	antilógico / ilógico
 illsley	illsley
 illud	illud
 illude	ilude
+illuderci	nos iludir / nos enganar
 illumina	ilumina
 illuminando	iluminando
 illuminano	iluminam
@@ -41466,6 +41517,7 @@ impopolare	impopular
 impopolari	impopulares
 impopolarità	impopularidade
 imporre	impor
+importa	importa / importar
 importance	importance
 importano	importam
 important	important
@@ -41662,6 +41714,7 @@ inappropriato	inapropriado
 inari	inari
 inaridimento	estancamento
 inarrestabile	imparável
+inaspettata	inesperada
 inaspettatamente	inesperadamente
 inaspettato	inesperado
 inattesi	inesperados
@@ -41670,6 +41723,7 @@ inattivi	inactivos
 inattività	inactividade
 inattivo	inativo
 inaudita	inaudita
+inaugura	inaugura
 inaugurale	inaugural
 inaugurando	inaugurando
 inaugurano	inauguram
@@ -41727,6 +41781,7 @@ incarnano	encarnam
 incarnare	encarnar
 incarnata	incarnata
 incarnation	incarnation
+incarnato	encarnado / em carne
 incarnava	encarnava
 incarnazione	encarnação
 incarnazioni	encarnações
@@ -41835,6 +41890,7 @@ inclán	inclán
 incmaro	incmaro
 incoerente	incoerente
 incoerentemente	incoerentemente
+incoerenti	incoerentes / inconsistentes
 incoerenza	incoerência
 incoerenze	incoerências
 incognita	incógnita
@@ -41902,6 +41958,7 @@ incontestabile	incontestável
 incontestabilmente	incontestavelmente
 incontinenza	incontinência
 incontrare	conhecer
+incontrarlo	encontrá-lo / conhecê-lo
 incontrarsi	encontrar
 incontrastato	incontestado
 incontro	encontro
@@ -42586,6 +42643,7 @@ ingredienti	ingredientes
 ingres	ingres
 ingresso	entrada
 ingrid	ingrid
+inguaribili	incuráveis / não curáveis
 inguinale	inguinal
 inguine	virilha
 ingvar	ingvar
@@ -42622,6 +42680,7 @@ ininterrotta	ininterrupta
 ininterrottamente	ininterruptamente
 ininterrotte	ininterruptas
 ininterrotto	ininterrupta / ininterrupto
+iniquità	iniqüidade / maldade / imoralidade
 init	init
 initial	initial
 initially	initially
@@ -42820,6 +42879,7 @@ insegnata	ensinada
 insegnato	ensinou
 insegnava	ensinava
 insegne	insígnias
+insegnerà	ensinará
 insegni	ensine
 insegue	persegue
 inseguendo	perseguindo
@@ -43328,6 +43388,7 @@ interzato	terciado
 interzato in fascia	terciado em faixa
 interzonale	interzonal
 intesa	acordo / pacto / maçonaria
+inteso	querer dizer
 intessuta	tecida
 intestazione	cabeçalho
 intestazioni	cabeçalhos
@@ -43593,6 +43654,7 @@ investment	investment
 investono	investem
 inveterato	inveterado
 invia	enviar
+inviando	enviando
 inviano	enviam
 inviare	enviar
 inviata	enviada
@@ -43849,6 +43911,7 @@ ipswich	ipswich
 iptv	iptv
 ipw	ipw
 ipx	ipx
+ipòcriti	hipócritas
 iqbal	iqbal
 iquique	iquique
 iquitos	iquitos
@@ -44233,6 +44296,7 @@ isr	isr
 israele	israel
 israeliani	israelitas
 israeliano	israelense / israelita
+israeliti	israelitas
 iss	iss
 issa	issa
 issam	issam
@@ -44374,6 +44438,7 @@ ithil	ithil
 iti	iti
 itifallico	itifálico
 itil	itil
+itinerante	itinerante
 itineranti	itinerantes
 itinerari	itinerários
 itinerario	itinerário
@@ -51599,6 +51664,7 @@ lytton	lytton
 lyubov	lyubov
 lyx	lyx
 là	lá
+làvati	lava-te
 lángara	lángara
 lászló	lászló
 lázně	lázně
@@ -52369,6 +52435,7 @@ malankarese	malancar
 malaparte	malaparte
 malaria	malária
 malaspina	malaspina
+malata	doente / enferma
 malatesta	malatesta
 malati	malato
 malato	enfermo / doente
@@ -52528,6 +52595,7 @@ maluginense	maluginense
 malus	malus
 malva	malva
 malvaceae	malvaceae
+malvagi	malvados
 malvagia	malvado / mau / má
 malvagio	malvado / mau / má
 malvagità	maldade / malícia / imoralidade
@@ -52719,6 +52787,7 @@ mangiafuoco	cospe-fogo
 mangiando	comendo
 mangiano	comem
 mangiare	comer
+mangiarono	comeram
 mangiate	comam
 mangiati	comidos
 mangiato	comeu
@@ -54797,6 +54866,7 @@ melzo	jundiai
 meléndez	meléndez
 mem	mem
 members	members
+membra	membro
 membrana	membrana
 membranacea	membranacea
 membrane	membranas
@@ -56316,6 +56386,7 @@ miseria	miséria
 misericordia	misericórdia
 misericordie	misericórdias
 misericordiosa	misericordiosa
+misericordiosi	misericordiosos
 misericordioso	misericordioso / compassivo
 miserie	misérias
 misero	fraco
@@ -57609,7 +57680,6 @@ morula	mórula
 morumbi	morumbi
 morus	morus
 morvan	morvan
-morwen	morwen
 mory	mory
 moré	moré
 morì	morreu / morrer
@@ -57683,6 +57753,7 @@ mostra	exposição / expo / mostra
 mostrando	mostrando
 mostrano	mostram
 mostrare	mostrar
+mostrarti	te mostrar
 mostrassero	mostrassem
 mostrati	mostrados
 mostrato	mostrado
@@ -60467,6 +60538,7 @@ normanne	normandas
 normanni	normandos
 normanno	normando
 normativo	normativo
+norme	regra
 normografo	estêncil
 norn	norn
 norne	nornas
@@ -60908,6 +60980,7 @@ nutre	alimenta
 nutria	caxingui
 nutriente	nutriente
 nutrienti	nutrientes
+nutrimento	alimento / nutrição / alimentação
 nutrire	nutrir
 nutriva	alimentava
 nutrivano	alimentavam
@@ -61327,7 +61400,8 @@ odiato	odiado
 odiava	odiava
 odiavano	odiavam
 odie	odie
-odierno	hodierno / atual / moderno
+odierna	hodierna / atual / moderna / de hoje
+odierno	hodierno / atual / moderno / de hoje
 odile	odile
 odilo	odilo
 odilon	odilon
@@ -61694,9 +61768,6 @@ olmo	ulmeiro / olmo
 olmos	olmos
 olms	olms
 olmstead	olmstead
-olmsted	olmsted
-olmütz	olmütz
-olney	olney
 olocausti	holocaustos
 olocausto	holocausto
 olocene	holoceno
@@ -62276,6 +62347,7 @@ orduña	orduña
 ordway	ordway
 ore	horas
 oreca	oreca
+orecchi	orelhas / ouvidos
 orecchie	orelhas
 orecchini	brincos
 orecchino	brinco
@@ -62752,6 +62824,7 @@ osservatori	observadores
 osservatorio	observatório
 osservazione	observação
 osservazioni	observações
+osserverà	observará
 osserviamo	observamos
 osservo	observo
 ossessionata	obcecada
@@ -64117,6 +64190,7 @@ parodontite	parodontite / periodontite
 parody	parody
 parola	vocábulo / palavra
 parola composta	palavra composta
+parola-chiave	palavras-chave
 parolacce	palavrões
 parolaccia	palavrão
 parole	palavras
@@ -64351,6 +64425,7 @@ passeri	pardais
 passeriforme	passeriforme
 passerini	passerini
 passero	pássaro / pardal
+passerà	passará
 passerò	passarei
 passi	passos
 passiamo	passamos
@@ -64435,6 +64510,7 @@ patents	patents
 pater	pater
 patera	patera
 patercolo	patérculo
+paterna	paterna
 paternalismo	paternalismo
 paternalistico	paternalista
 paterne	paternas
@@ -65172,6 +65248,7 @@ perception	perception
 percettibili	perceptíveis
 perceval	perceval
 percezione	percepção
+perchè	porquê / porque / desde
 perché	por que / porque / porquê / já que
 perciformes	perciformes
 percival	percival
@@ -65214,16 +65291,20 @@ perdizione	perdição
 perdo	perco
 perdomo	perdomo
 perdona	perdoa
+perdonando	perdoando
 perdonano	perdoam
 perdonare	perdoar / desculpar
 perdonata	perdoada
 perdonati	perdoados
 perdonato	perdoado
+perdonerà	perdoará
 perdono	perdão
 perdue	perdue
 perdura	perdura
 perdutamente	perdidamente
+perdute	perdidas
 perduti	perdidos
+perduto	perdido
 pere	peras
 perea	perea
 perec	perec
@@ -65385,6 +65466,7 @@ permetterebbero	permitiriam
 permettersi	atrever-se / ousar
 permetterà	permitirá
 permetti	permitir
+permettimi	permite-me / deixa-me
 permetto	permito
 permettono	permitem
 permian	permian
@@ -65478,6 +65560,7 @@ persei	persei
 perseo	perseus
 persepoli	persépolis
 persepolis	persepolis
+perseverante	perseverante
 perseveranza	perseverança
 pershing	pershing
 persi	perdidos
@@ -65638,6 +65721,7 @@ pesticidi	pesticidas
 pestilence	pestilence
 pestis	pestis
 pesto	pesto
+pesudocristiani	falsos cristãos
 pet	pet
 peta	peta
 petacchi	petacchi
@@ -66233,6 +66317,7 @@ pieter	pieter
 pieters	pieters
 pieterse	pieterse
 pieterszoon	pieterszoon
+pietismi	pietismos
 pietismo	pietismo
 pietista	pietista
 pietoso	misericordioso / piedoso / compassivo
@@ -67381,6 +67466,7 @@ ponderazione	ponderação
 ponderosa	ponderosa
 pondicherry	pondicherry
 pone	põe / coloca
+ponendo	pondo / colocando / botando
 ponferrada	ponferrada
 pong	pong
 pongono	colocam
@@ -67501,6 +67587,7 @@ porcellana	porcelana
 porcellini	porquinhos
 porcellino	porquinho
 porch	porch
+porci	porcos
 porcia	porcia
 porcile	chiqueiro
 porcino	porcino
@@ -67675,6 +67762,7 @@ posizioni	posições
 posner	posner
 pospisil	pospisil
 pospíšil	pospíšil
+possa	possa / poder
 possamai	possamai
 possano	possam
 possedere	possuir
@@ -68183,7 +68271,6 @@ prenotazioni	reservas
 prensile	preênsil
 prentice	prentice
 prentiss	prentiss
-prenzlauer	prenzlauer
 preoccupa	preocupa / se inquieta
 preoccupano	preocupam
 preoccupante	preocupante
@@ -68732,6 +68819,7 @@ prodiere	proeiro
 prodiga	pródiga
 prodigal	prodigal
 prodigalità	prodigalidade
+prodigi	prodígios
 prodigio	prodígio
 prodigiosa	prodigiosa
 prodigiosamente	prodigiosamente
@@ -68801,6 +68889,7 @@ professo	professo
 professore	professor
 professors	professors
 profeta	profeta
+profetato	profetizado
 profeti	profetas
 profetica	profética
 profetiche	proféticas
@@ -68837,6 +68926,7 @@ profumo	perfume
 profundis	profundis
 profuse	profusa
 profusione	profusão
+profùmati	perfuma-te
 prog	prog
 progarchives	progarchives
 progenitrici	progenitoras
@@ -69099,6 +69189,8 @@ prosciugare	dessecar / definhar
 prosciugata	drenada
 prosciugato	drenado
 prosciutto	presunto
+prosegue	continua / prossegue / segue
+proseguire	continuar / prosseguir / seguir
 proseguite	prossiga
 proseguiti	prosseguiram
 proseguito	prosseguiu
@@ -69287,6 +69379,7 @@ provocate	provocadas
 provocato	provocado
 provocatori	provocadores
 provocatoria	provocadora
+provocatorie	provocante / provocativa
 provocatorio	provocador
 provocava	provocava
 provocazione	provocação
@@ -69382,6 +69475,7 @@ pseudocardinale	pseudocardeal
 pseudomonas	pseudomonas
 pseudomys	pseudomys
 pseudoplatanus	pseudoplatanus
+pseudoprofeti	falsos profetas
 pseudoscientifiche	pseudocientíficas
 pseudoscienza	pseudociência
 pseudotsuga	pseudotsuga
@@ -69759,6 +69853,7 @@ purghe	purgas
 puri	puros
 purifica	purifica
 purificare	purificar
+purificarti	te purificar
 purificate	purificadas
 purificati	purificados
 purificato	purificado
@@ -70871,6 +70966,7 @@ raoult	raoult
 rap	rap
 rapa	nabo
 rapace	ave de rapina
+rapaci	aves de rapina
 rapallo	rapallo
 rapax	rapax
 rapcore	rapcore
@@ -72632,6 +72728,7 @@ ricompensa	recompensa
 ricompensati	recompensados
 ricompensato	recompensado
 ricompense	recompensas
+ricompenserà	recompensará
 ricompilazione	recompilação
 ricomporre	recompor
 riconciliare	reconciliar
@@ -73153,6 +73250,7 @@ rinnovabili	renováveis
 rinnovando	renovando
 rinnovano	renovam
 rinnovare	renovar
+rinnovarti	te renovar
 rinnovate	renovadas
 rinnovati	renovados
 rinnovato	renovado
@@ -73321,6 +73419,7 @@ ripubblicato	republicado
 ripubblicazione	republicação
 ripudia	repudia
 ripudiata	repudiada
+ripudio	repúdio / rejeição / negação
 ripugnanti	repugnantes
 ripugnanza	abominao
 riquelme	riquelme
@@ -73501,6 +73600,7 @@ risuona	ressoa
 risuonano	ressoam
 risuonare	ressoar
 risurrezione	ressurreição
+risuscitate	ressuscitem
 risvegli	desperte
 risveglia	desperta
 risveglio	despertar / acordamento
@@ -74465,6 +74565,7 @@ rovesci	aguaceiros
 rovesciamento	derrube
 rovesciare	derramar
 roveto	sarça
+rovi	amora preta / amora silvestre
 rovigo	rovigo
 rovina	ruína
 rovinano	estragam
@@ -75883,6 +75984,7 @@ sapori	sabores
 saporta	saporta
 sapp	sapp
 sapphire	sapphire
+sappia	saiba
 sappiamo	sabemos
 sapporo	sapporo
 sapranno	saberão
@@ -76307,6 +76409,8 @@ scacchiera	tabuleiro de xadrez
 scaccia	expulsa \ afasta \ afugenta
 scacciano	expulsam
 scacciare	expulsar \ afastar \ afugentar
+scacciarli	expulsá-los
+scacciato	afugentado / expulsado
 scacco	xeque
 scacco matto	mate
 scacco perpetuo	xeque perpétuo
@@ -76368,6 +76472,7 @@ scanalature	entalhes
 scandal	scandal
 scandali	escândalos
 scandalistica	sensacionalista
+scandalizzare	horrorizar / choque / escandalizar / ofender
 scandalo	escândalo
 scandalosamente	escandalosamente
 scandalose	escandalosas
@@ -77440,6 +77545,7 @@ secchi	baldes
 secchia	secchia
 secchio	balde
 secco	seco
+seccò	secou
 secerne	segrega
 secernenti	secretores
 secernere	secretar
@@ -77631,6 +77737,7 @@ segreto	secreto / segredo
 segrè	segrè
 seguace	seguidor
 seguaci	seguidores
+segue	segue / sucede / resulta
 seguente	seguinte
 seguenti	seguintes
 segugio	sabujo
@@ -77639,7 +77746,7 @@ seguiamo	seguimos
 seguimi	segue-me
 seguin	seguin
 seguiranno	seguirão
-seguire	seguir / siga
+seguire	seguir / suceder / resultar
 seguirebbe	seguiria
 seguirlo 	segui-lo
 seguirono	seguiram
@@ -77854,6 +77961,7 @@ seminate	semeadas
 seminati	semeados
 seminato	semeado
 seminatore	semeador
+seminava	semeava
 semine	sementeiras
 seminole	seminole
 seminuda	seminua
@@ -77998,6 +78106,7 @@ sentenze	acórdãos
 sentiamo	sentimos
 sentiero	caminho
 sentimentale	sentimental
+sentimentalismi	sentimentalismos
 sentimentalismo	sentimentalismo
 sentimentalmente	sentimentalmente
 sentimenti	sentimentos
@@ -78066,7 +78175,8 @@ sepolti	enterrados
 sepolto	enterrado
 sepoltura	enterro
 sepp	sepp
-seppellire	enterrar
+seppellire	enterrar / sepultar / esquecer
+seppelliscano	enterrem
 seppellisce	enterra
 seppelliscono	enterram
 seppellivano	enterravam
@@ -78525,6 +78635,7 @@ sfruttato	explorado
 sft	sft
 sfugge	escapa
 sfuggente	esquivo
+sfuggire	escapar / fugir / evitar
 sfuggono	escapam
 sfumato	borrado
 sfumatura	matiz / gradiente
@@ -79252,7 +79363,6 @@ siem	siem
 siemens	siemens
 siempre	siempre
 siena	siena
-sienkiewicz	sienkiewicz
 sienna	sienna
 siento	siento
 siepe	cerca / sebe
@@ -80173,6 +80283,8 @@ smantellati	desmantelados
 smantellato	desmantelado
 smap	smap
 smaragdo	esmaragdo
+smarrire	perder
+smarrito	perdido
 smart	smart
 smarter	smarter
 smartphone	smartphone
@@ -80478,6 +80590,7 @@ soffia	sopra
 soffiando	soprando
 soffiano	sopram
 soffiare	soprar / assoprar
+soffiarono	sopraram / assopraram
 soffiato	soprado
 soffiava	soprava
 soffice	macio / macia
@@ -80492,6 +80605,7 @@ soffoca	sufoca
 soffocamento	asfixia
 soffocante	sufocante
 soffocare	afogar / sufocar
+soffocarono	sufocaram
 soffocata	sufocada
 soffocate	abafadas
 soffocati	sufocados
@@ -80585,7 +80699,9 @@ sokolov	sokolov
 sokolova	sokolova
 sokoto	sokoto
 sokurov	sokurov
+sola	só / sozinha
 solace	solace
+solamente	apenas / somente / meramente
 solana	solana
 solanaceae	solanaceae
 solanacee	solanáceas
@@ -81142,6 +81258,7 @@ sottopongono	submetem
 sottoporre	submeter
 sottoposta	submetida
 sottoposti	submetidos
+sottoposto	subalterno
 sottoprodotti	subprodutos
 sottoprodotto	subproduto
 sottordine	subordem
@@ -81638,6 +81755,7 @@ spey	spey
 spezia	especiaria
 speziale	boticário
 spezie	especiarias
+spezza	quebra / rompe / parte
 spezzare	quebrar / romper / partir
 spezzarono	quebraram / romperam / partiram
 spezzate	quebrado / rompido / partido
@@ -81683,6 +81801,7 @@ spiegare	explicar
 spiegate	explicadas
 spiegati	explicados
 spiegato	explicado / explicou
+spiegava	explicava
 spiegavano	explicavam
 spiegazione	explicação
 spiegazioni	explicações
@@ -82261,6 +82380,7 @@ stander	stander
 standing	standing
 standish	standish
 standl	standl
+stando	estando
 stanfield	stanfield
 stanford	stanford
 stang	stang
@@ -83004,6 +83124,8 @@ strappati	rasgadas
 strappato	rasgado
 strappo	fissura
 straripamento	transbordamento
+straripare	transbordar / infestar
+strariparono	transbordaram
 strasberg	strasberg
 strasbourg	strasbourg
 strasburg	strasburg
@@ -83098,6 +83220,7 @@ stresa	stresa
 stresemann	stresemann
 stress	stress
 stretch	stretch
+stretta	estreito / estreita / aperto / agarramento
 strette	apertos
 stretto	apertado / estreito / pressionado
 stretton	stretton
@@ -83289,6 +83412,7 @@ stupidità	estupidez
 stupido	estúpido / idiota
 stupinigi	stupinigi
 stupire	surpreender / espantar
+stupite	espantadas / surpreendidas
 stupiti	surpresos \ espantados \ estarrecidos
 stupito	surpreso \ espantado \ estarrecido
 stupore	espanto / estupor / surpresa
@@ -83423,9 +83547,10 @@ success	success
 successful	successful
 successi	sucessos
 successione	sucessão
+successiva	seguinte / próxima / subsequente
 successive	sucessivas
 successivi	sucessivos
-successivo	seguinte
+successivo	seguinte / próximo / subsequente
 successo	sucesso
 successore	sucessor
 successori	sucessores
@@ -84782,6 +84907,7 @@ tancredo	tancredo
 tandem	tandem
 tandil	tandil
 tandy	tandy
+tane	tocas
 tanegashima	tanegashima
 tanel	tanel
 tanenbaum	tanenbaum
@@ -86421,6 +86547,7 @@ tiempo	tiempo
 tiempos	tiempos
 tien	tien
 tienanmen	tiananmen
+tiene	tem
 tientsin	tientsin
 tiepido	morno
 tiepolo	tiepolo
@@ -86805,6 +86932,7 @@ toccate	toquem
 toccato	tocou
 tocci	tocci
 tocco	toque
+toccò	tocou
 toch	toch
 tochigi	tochigi
 tochter	tochter
@@ -87617,6 +87745,7 @@ trani	trani
 tranmere	tranmere
 tranne	menos / exceto / salvo
 tranquility	tranquility
+tranquilla	tranquila / calma
 tranquillamente	tranquilamente
 tranquillante	tranquilizante
 tranquillanti	tranquilizantes
@@ -88394,6 +88523,7 @@ trout	trout
 troutman	troutman
 trouville	trouville
 trouvé	trouvé
+trova	encontra
 trovano	encontram
 trovare	encontrar / achar
 trovarono	encontraram
@@ -88815,6 +88945,7 @@ tutorial	tutoriais
 tutsi	tutsis
 tutt	tud
 tutta	toda
+tuttavia	porém / mas / contudo
 tutte	todas
 tutti	todos
 tuttle	tuttle
@@ -89017,15 +89148,18 @@ uccellino	passarinho
 uccello	pássaro / ave
 uccide	mata
 uccidendo	matando
-uccidere	matar
+ucciderai	matarás
+uccidere	matar / assassinar / abater
 ucciderebbe	mataria
 uccidete	matem
 uccidevano	matavam
 uccidi	mata
 uccido	mato
 uccidono	matam
-uccisione	morte / matança
+uccisione	morte / matança / assassinato / homicídio
 ucciso	presa
+uccisore	assassino / homicida / matador
+uccisori	assassinos
 uccle	uccle
 ucd	ucd
 uche	uche
@@ -90508,6 +90642,7 @@ vectra	vectra
 veda	vedas
 vedanta	vedanta
 vedder	vedder
+vede	vê
 vedendo	vendo
 vedendo 	vendo
 vedere	ver
@@ -91078,6 +91213,7 @@ vesta	vesta
 vestaglia	robe
 vestale	vestal
 vestali	vestais
+veste	roupa / manto / vestido
 vestfalia	vestefália
 vestfold	vestfold
 vesti	vestes
@@ -92011,6 +92147,7 @@ volgar	volgar
 volgare	vulgar
 volgari	vulgares
 volgarità	vulgaridade
+volgere	voltar / virar / torcer
 volgin	volgin
 volgograd	volgograd
 volhard	volhard
@@ -92062,6 +92199,7 @@ volte	vezes
 volterra	volterra
 volti	rostos
 voltmetro	voltímetro
+volto	rosto / face / cara
 volturi	volturi
 volturno	volturno
 volubile	inconstante
@@ -92079,6 +92217,7 @@ volunteer	volunteer
 volusia	volusia
 volusiano	volusiano
 voluso	voluso
+volutamente	deliberadamente / intencionalmente / expressamente
 voluti	desejados
 voluto	propositado / intencionado / projetado / desenhado
 voluttà	voluptuosidade
@@ -92138,6 +92277,7 @@ vosper	vosper
 voss	voss
 vostell	vostell
 vostok	vostok
+vostra	vossa
 vostre	vossas / suas
 vostri	seus
 vostro	vosso
